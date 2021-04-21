@@ -1,0 +1,6 @@
+book_filename: "Plan-Estadistico"
+language:
+  ui:
+    chapter_name: "Capítulo "
+delete_merged_file: true
+output_dir: "docs"
