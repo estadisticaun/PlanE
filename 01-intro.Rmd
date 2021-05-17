@@ -1,24 +1,17 @@
-# Introduction {#intro}
+# Introducción {#intro}
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+La Universidad Nacional de Colombia (UN), ente rector de la educación superior de Colombia, consciente de la necesidad de fortalecer los procesos de producción y difusión de la información estadística, así como de responder de una menra más adecuada a los requerimientos de información de la academia, las instituciones nacionales e internacionales, la comunidad universitaria y de la propia entidad, y considerando que la poca visibilización de la informacion es uno de los puntos neurálgicos de la gestión pública, ha tomado la iniciativa de formular un Plan Estadístico Institucional.
+
+Este ejercicio se soporta conceptualmente de los lineamineatos metodológicos del Departamento Administrativo Nacional de Estadistica, DANE, que según el decreto 4178 de 2012 tiene entre sus funciones la planificación, estandarización y certificación de las estadísticas. Parafraseando al .[@BibEntry2021Apr], un Plan Estadístico institucional es un instrumento de determinación y priorización de la información estadística y demás resultados que se requieren o desean generar en un ámbito intitucional; éste contiene la información estratégica que se requiere para la formualación de políticas públicas, la planeación, la toma de decisiones, así como para la evaluación y el seguimiento a los planes misionales y de acción.
+
+Es así como en el marco del proyecto del Fortalecimiento Estadístico de la Universidad y bajo la orientación de la Dirección Nacional de Planeación y Estadística, se busca visibilizar la infomración institucional generada -Oferta-, evaluar los niveles de satisfacción de información demandada por las dependencias del nivel nacional e identificar los procesos de gestión de la información.
+
+Este ejercicio de planificación estadística obedece a ña necesidad de definir, organizar y priorizar la información estadística que requiere la universidad, en función de solucionar los problemas de desconocimiento y baja utilización de la información producida, entre ptros factores que configuran un tratamiento inadecuado de la información generada por las diferentes dependencias que componen la Universidad.
+
+En consecuencia, la elaboración de un Plan Estadístico institucional para la UN, se constituye en una estrategia tanto para facilitar los procesos de toma de decisiones como para hacer más efectivos los mecanismos de rendición de cuentas a la ciudadanía, a partir de un mayor y mejor aprovechamiento de la información generada, avanzando con ello en el fortalecimiento de la transparenciam la honestidad y el control social efectivo e incluyente sobre la gestión adelantada.
+
+Como este instrumento, se espera lograr reducir los requerimientos no satisfechos de información que se presentan en la Universidad, por lo menos en los que respecta al componente estratégico de la información estadística, en la medida en que se definirán las estadísticas que son prioritarias para das cuenta del que hacer de la entidad en relación con los componentes de Investigación, Extensión, Admisión y Movilidad, entre otros.
+
+El documentos que se presenta a continuación está conformado por la descripción de la metodología para elaborar el Plan Estadístico de la UN; diagnóstico de la actividad estadística en la Universidad, según cada uno de los ejes temáticos de información estadística; resultados del cruce de oferta y demanda de información estadística en la UN; la formulación de la parte estratégica del Plan Estadístico UN, y Plan de Acción Institucional; y por último, los anexos correspondientes a los metadatos de las operaciones estadísticas que resumen la oferta de estadísticas estratégicas de la UN. El inventario de información se construyó conjuntamente con los delegados de las áreas y dependencias entre los meses de octubre de 2016 y julio de 2017.
 
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
-
-Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
-
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
-
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
-
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
-
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].

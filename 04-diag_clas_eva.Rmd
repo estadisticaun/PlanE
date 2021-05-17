@@ -1,0 +1,322 @@
+# Dignóstico, clasificación y evaluación de la oferta y la demanda de operaciones estadísticas e indicadores
+
+La información necesaria para construir el inventario de información estadística, se capturó en
+cada una de las dependencias del nivel nacional de la UN, no obstante, los análisis de diagnóstico
+son presentados a nivel núcleos de información, aunque en su interior, las operaciones son
+asociadas al responsable de su producción.
+
+## Diagnóstico de la oferta de operaciones estadísticas
+
+Una vez aplicados los formularios de oferta y demanda de información estadística en todas las
+dependencias, se cuenta con los insumos necesarios para realizar el diagnóstico de la información
+estadística que produce la entidad, que a su vez, es insumo fundamental para la formulación del
+Plan. Dicho diagnóstico, incluye tanto el análisis de oferta como el de demanda, con el fin de
+establecer cuál es el estado real de la producción y en qué grado se satisfacen las necesidades de
+información (internas y externas).
+
+### Análisis de la oferta de información
+
+La oferta en este caso se entiende como la información producida y puesta a disposición de
+posibles usuarios en un momento determinado. Para evaluar la oferta se tomó como primer
+criterio de evaluación a modo de marco general, el carácter misional o estratégico de la
+información producida por la UN. Lo anterior es claro en el sentido en que la producción de
+estadísticas debe obedecer a las necesidades de información para la toma oportuna y acertada de
+decisiones estratégicas de la universidad, cabe aclararse, que no se desconoce la importancia de la
+información estadística que permite medir y hacer seguimiento a la gestión de cada una de las
+áreas vinculadas al proceso, solo que en el desarrollo del Plan solo se consideró la producción de
+información estratégica.
+
+Para la Universidad Nacional de Colombia se identificó una producción de 43 operaciones
+estadísticas y 69 registros administrativos. A la totalidad de las operaciones documentadas se les
+aplicó el proceso de revisión técnica y se sugirieron modificaciones para mejorar sus procesos de
+producción.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyr)
+operacion<- c("Consolidación de información de inscritos y admitidos a los programas curriculares de pregrado semestralmente por la universidad Nacional de Colombia", "Consolidación de información de inscritos y admitidos a los programas curriculares de posgrado semestralmente por la universidad Nacional de Colombia", "Estadísticas de gestión anual del Sistema de Bienestar Universitario", "Medición de la Satisfacción del Usuario", "Identificación de potencialidades y vulnerabilidades al momento del ingreso para estudiantes de pregrado.", "Medición de Indicadores de Gestión", "Monitoreo de prensa", "Seguimiento a las órdenes contractuales de prestación de servicios de personas naturales de la Universidad Nacional de Colombia", "Informe Seguimiento a la información del proceso de Gestión de Bienes","Informe consolidado de Ejecución Presupuestal (Presupuesto)","Memoria Financiera (Gerencia Nacional Financiera y Administrativa)","Indicadores del proceso de Adquisición de Bienes y Servicios","Estadísticas de contratación","Estados Contables Consolidados UN","Seguimiento al sistema de peticiones de la Universidad Nacional","Seguimiento a la rendición de cuentas","Consolidar las estadísticas de la Sede Bogotá","Seguimiento al Plan de Acción institucional","Libro de capacidades de Investigación de la Universidad Nacional de Colombia","Consolidación de la información estadística para los procesos de autoevaluación y evaluación continua","Consolidación de la movilidad estudiantil entrante y saliente","Convenios nacionales e internacionales","Indicadores opinión de apoyo a la autoevaluación de los programas de pregrado","Indicadores estadísticos de apoyo a la autoevaluación de los programas de pregrado","Consolidación de Estadísticas de Personal Académico y Administrativo","Consolidación del Informe Docente","Consolidación Programación anual Presupuesto Gastos de Nómina","Consolidación del gasto mensualizado de nómina por sede (PAC - Plan anual mensualizado de caja)","Informe anual costos de personal","Construcción de la revista de estadísticas e indicadores de la Universidad Nacional de Colombia","Seguimiento al Plan de desarrollo de la Universidad Nacional de Colombia","Distribución y seguimiento de los recursos de inversión","Consolidación de Indicadores de Extensión de la Universidad Nacional de Colombia","Generador de indicadores","Encuesta de satisfacción al usuario","Reporte mensual, Unidad del Servicio Público de Empleo","Reporte indicadores del Sistema Nacional de Bibliotecas","Consolidación de Procesos Judiciales y de conciliación de las Sedes","Consolidación de la información editorial de la Universidad Nacional de Colombia","Consolidado de indicadores ambientales de la Universidad Nacional","Consolidación de la medición de indicadores ambientales - GREENMETRIC","Consolidación de la información de encuestas para los procesos de autoevaluación y evaluación continua","Medición de la satisfacción del usuario") 
+productor<-c("Dirección Nacional de Admisiones", "Dirección Nacional de Admisiones", "Dirección Nacional de Bienestar Universitario", "Dirección Nacional de Bienestar Universitario","Dirección Nacional de Bienestar Universitario", "Dirección Nacional de Bienestar Universitario", "UNIMEDIOS", "Gerencia Nacional Financiera y Administrativa", "Gerencia Nacional Financiera y Administrativa","Gerencia Nacional Financiera y Administrativa","Gerencia Nacional Financiera y Administrativa","Gerencia Nacional Financiera y Administrativa","Gerencia Nacional Financiera y Administrativa","Gerencia Nacional Financiera y Administrativa","Vicerrectoría General","Oficina De Planeación Sede Bogotá","Oficina De Planeación Sede Bogotá","Oficina De Planeación Sede Bogotá","Vicerrectoría de Investigación","Dirección Nacional de Programas Curriculares de Posgrado","Oficina de Relaciones Exteriores","Oficina de Relaciones Exteriores","Dirección Nacional de Programas Curriculares de Pregrado","Dirección Nacional de Programas Curriculares de Pregrado","Dirección Nacional de personal académico y administrativo","Dirección Nacional de personal académico y administrativo","Dirección Nacional de personal académico y administrativo","Dirección Nacional de personal académico y administrativo","Dirección Nacional de personal académico y administrativo","Dirección Nacional de Planeación y Estadística","Dirección Nacional de Planeación y Estadística","Dirección Nacional de Planeación y Estadística","Dirección Nacional de Extensión, Innovación y Propiedad Intelectual","Dirección Nacional de Información Académica","Programa de egresados","Programa de egresados","Oficina Nacional de Bibliotecas","Dirección Jurídica Nacional","Editorial UN","Sistema Gestión Ambiental","Sistema Gestión Ambiental","Dirección Nacional de Programas Curriculares de Posgrado","Vicerrectoría General")
+codigo <- c("dna12:1", "dna12:3","dnbu16:1", "dnbu16:2", "dnbu16:3", "dnbu16:4", "unimedios19:1", "gnfa20:1", "gnfa20:2","gnfa20:3","gnfa20:4","gnfa20:5","gnfa20:6","gnfa20:8","vrg21:1","opb23:1","opb23:2","opb23:3","vri25:1","dnpr26:1","dre28:1","dre28:3","dnpcp32:1","dnpcp32:2","dnpa33:1","dnpa33:2","dnpa33:3","dnpa33:4","dnpa33:5","dnpe40:1","dnpe40:2","dnpe40:3","dne41:2","sia61:1","pe78:1","pe78:2","sinab79:1","djn83:1","editorial84:1","siga87:1","siga87:2","dnpr26:2","vrg21:2")
+tabla1 <- tibble(`Operación` = operacion, `Productor` = productor, `Código` = codigo  )
+knitr::kable(tabla1, caption = 'Consolidado de Operaciones Estadísticas')
+
+```
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+Productor <- c("Dna","Dnbu","Dnbu","Dne","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpa","Dnpe","Dnpe","Dnpe","Dnpe","Dnpr","Dre","Editorial","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Gnfa","Pe","Sia","Siga","vrg","vrg","vrg","vrg","vri","vri","vri","vri","vri")
+nombre <- c("Reporte estándar del ISYSDNA para pregrado","Sistema de Información de Bienestar Universitario - SIBU","Encuesta de satisfacción","Consolidación de la información de HERMES","Planta Ocupada Personal Docente y Administrativo Sedes","Reporte Ranking QoS","Reporte Ranking THE","Reporte SNIES","Reporte Sistema de Autoevaluación Programas de Pregrado","Reporte Sistema de Autoevaluación Programas de Posgrado","Reporte conceptos de nómina por empleado para el Fondo Pensional","Información para Consejos Profesionales","Informe desfinanciación de la Educación en Colombia que lidera el SUE","Informe de rendición de cuentas a la Contraloría General de la República SIRECI","Informe ajustes presupuestales","Informe gastos de personal","Nómina intereses cesantías","Reporte informativo consolidación cesantías anuales","Informe gastos de nómina Vigilancia","Informe información exógena DIAN","Informe Índices de costos de la educación superior ICES","Reporte de productividad Académica","Reporte de reconocimiento de puntaje por títulos","Reporte de reconocimiento de puntaje por dirección de Tesis de Posgrado","Reporte Estadísticas concurso profesoral","Informe situaciones administrativas del Personal Docente","Informe de reconocimiento de tenencias de cargo","Consolidar y reportar información al Sistema de Rendición Electrónica de la Cuenta e Informes–SIRECI", "Suministro de información al Sistema Nacional de Información de la Educación Superior SNIES", "Información para el Sistema de Prevención y Análisis a la Deserción en las Instituciones de Educación Superior -SPADIES", "Información para la elaboración del documento para la Calificadora de Riesgo", "Registro de la información de los programas curriculares de posgrado en el Sistema Nacional de Información de Educación Superior (SNIES) a través del Sistema de Aseguramiento de la Calidad en la Educación Superior (SACES), sistemas adscritos al Ministerio de Educación Nacional (MEN)" ,"Movilidad entrante, saliente, registro convenios", "Control ISBN", "Reporte de Información general técnica, administrativa y jurídica sobre los activos inmobiliarios de la Universidad en el Sistema SIGA (Gestión de bienes)","Declaración y pago de Retención en la fuente (Tesorería)","Declaración y pago de retención de impuestos de industria y comercio de Bogotá (ICA)(Tesorería)","Informe Contribución 5% de Obra Pública (Tesorería)","Informe Estampilla ProUniversidad Nacional de Colombia (Tesorería)","Informe Rendimientos Financieros Sistema General de Regalías (SGR) (Tesorería)","Informe de Inversiones Financieras - Artículo 58 Decreto 1525 de 2008 (Tesorería)","Reporte de información al SMSCE del módulo de cuentas del Sistema General de Regalías (SGR) – Ley 1530 del 17 de mayo de 2012 (Tesorería)","Reporte Informe CHIP (Presupuesto)","Reporte Informe CHIP REGALÍAS (Presupuesto)","Informe Balanza de pagos (Presupuesto)","Formato de rendición de cuentas SIRECI CGR:M-9. Gestión Contractual.","Formato de rendición de cuentas SIRECI CGR:M-1.Cuenta o informe anual consolidado (Formulario F2. Plan de Compras)","Formato de rendición de cuentas SIRECI CGR:M-11.1. Econom y finanzas (Formulario F50.7 Personal y costos-contratistas)","Muestra trimestral de Comercio Exterior de Servicios MTCES","Indice de Costos de la Educación Superior ICES","Informe de SARES Vigentes ( Adquisición de bienes y servicios)","Formato de Estampilla Pro Universidad Nacional de Colombia y demás Universidades estatales de Colombia ( Adquisición de Bienes y Servicios)","Formato de Registro Recaudo Contribución - FONSECON (Adquisición de Bienes y Servicios)","Declaración de ingresos y patrimonio - DIAN (Contable)","Reporte Boletín de Deudores Morosos del Estado (Contable)","Reporte para el Sistema Nacional de Información de la Educación Superior (SNIES). (Contable)","Información exógena de la Universidad. (Contable)","Registro de egresado","Sistema de Información Académica","Formato 8 del Reporte de la contraloría Controlaría General de la Nación","Reporte de quejas y reclamos","Seguimiento a los resultados de las Auditorías","Reporte MERCO","Sistema de Gestión Ambiental - GreenMetric","Registro y seguimiento de proyectos de investigación o extensión con financiación externa","Registro para ejecución y seguimiento de las convocatorias internas","Registro de laboratorios y equipos","Registro y administración de las colecciones","Registro y administración de los grupos de investigación")
+tabla2 <- tibble(`Productor` = Productor, `Nombre del registro administrativo RRAA` = nombre )
+knitr::kable(tabla2, caption = 'Consolidado de Registros Administrativos RRAA')
+
+```
+
+
+### Resultados agregados de la revisión de operaciones estadísticas ofertadas por las
+dependencias UN
+
+Criterios definidos para el diagnostico de las operaciones estadísticas propias de las dependencias
+del orden nacional de la Universidad Nacional de Colombia.
+
+**1.** Documentación técnica de la operación estadística, con este criterio se busca responder a la pregunta: ¿Qué tan documentada está la operación estadística en relación a los parámetros establecidos en los campos de la ficha técnica?
+
+**1.1.** *Completitud Ficha técnica:* Verificación del     nivel de diligenciamiento de los campos de la ficha
+    técnica de la operación estadística documentada por     el área o dependencia productora.
+    
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(ggplot2)
+library(dplyr)
+library(tidyverse)
+
+ data_1<- tibble(
+  item_1=c("Incompletas","Completas"),
+  porcentaje_1=c(28.21,71.79),
+  cadena_porcentaje_1 =str_c(porcentaje_1,"%")
+)
+
+ggplot(data_1, aes(x="", y=porcentaje_1, fill=item_1, width =10)) +
+   geom_bar(stat="identity", color="white") +
+   geom_text(aes(label = cadena_porcentaje_1), 
+             position = position_stack(vjust = 0.5),
+             show.legend = FALSE) +
+   coord_polar("y") + 
+   guides(fill = guide_legend(title = ""))+
+   theme_void() +  
+   scale_fill_brewer(palette= "YlGn")+
+  ggtitle("Ilustración 1. Resultados de Completitud de \nlas Operaciones Estadisticas Ofertadas ")+
+  theme(plot.title = element_text(hjust = -0.001))
+
+```
+**1.2.** *Validez de contenido:* Se hace la
+    verificación de que el contenido en los campos de 
+    la ficha técnica guarde correspondencia con lo   
+    indagado en cada uno de los ítems.
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+data_2<- tibble(
+  item_2=c("Contenidos no válidos","Contenidos válidos"),
+  porcentaje_2=c(35.90,64.10),
+  cadena_porcentaje_2=str_c(porcentaje_2,"%")
+)
+ggplot(data_2, aes(x="", y=porcentaje_2, fill=item_2)) +
+   geom_bar(stat="identity", color="white") +
+   geom_text(aes(label = cadena_porcentaje_2), 
+             position = position_stack(vjust = 0.5),
+             show.legend = FALSE) +
+   coord_polar("y") + 
+   guides(fill = guide_legend(title = ""))+
+   theme_void() +  
+   scale_fill_brewer(palette= "YlGn")+
+  ggtitle("Ilustración 2. Resultados de Validez de contenido de OE ")
+  #theme(plot.title = element_text(hjust = -0.5))
+
+```
+**2.** Calidad del Proceso estadístico
+
+**2.1.** *Accesibilidad:* Facilidad con que la información estadística puede ser ubicada y obtenida por los usuarios. Contempla la forma en que ésta se provee, los medios de difusión, así como la disponibilidad de las fichas técnicas y los servicios de apoyo para su consulta. Se verifica si los
+resultados de la operación estadística, se divulgan por medios de mayor difusión como página web o sistema de información de manera que los distintos usuarios pueden acceder fácilmente a éstos, de los resultados de estos criterios se asigna una calificación para la operación entre el rango de 0-4.
+
+```{r, echo= FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)  
+
+bardata_1 <-tibble( 
+  calificacion_1= sample(0:4),
+  valor_1=c(12.82,2.56,5.13,30.77,48.72),
+  valor_porcentaje_1= str_c(valor_1,"%")
+)
+```
+```{r, echo= FALSE, message=FALSE, warning=FALSE}
+ggplot(bardata_1, aes(x=calificacion_1, y=valor_1, fill=factor(valor_1))) +
+  geom_col() +
+  scale_fill_brewer(palette= "YlGn") + 
+  geom_text(aes(label=valor_porcentaje_1), vjust=-0.5, color="black",
+            position = position_dodge(0.9), size=3.5)+
+  ylim(0,100)+
+  theme(legend.position = "none")+
+  ylab("Información Estadistica (%)") + xlab("Calificación") +
+  ggtitle("Ilustración 3. Resultados de \n Accesibilidad de OE  ")+
+  theme(plot.title = element_text(hjust = 0.5))
+```
+**2.2.** *Coherencia:* Se refiere al grado en que están lógicamente conectados los conceptos utilizados, las metodologías aplicadas y los resultados producidos por la operación. Verifica la consistencia lógica entre todos los elementos que hacen parte de la ficha e identifica las posibles contradicciones o ambigüedades que puedan existir entre los campos diligenciados.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+data_3<- tibble(
+  item_3=c("Problemas de coherencia","Coherente"),
+  porcentaje_3=c(12.82,87.18),
+  cadena_porcentaje_3=str_c(porcentaje_3,"%")
+)
+ggplot(data_3, aes(x="", y=porcentaje_3, fill=item_3)) +
+   geom_bar(stat="identity", color="white") +
+   geom_text(aes(label = cadena_porcentaje_3), 
+             position = position_stack(vjust = 0.5),
+             show.legend = FALSE) +
+   coord_polar("y") + 
+   guides(fill = guide_legend(title = ""))+
+   theme_void() +  
+   scale_fill_brewer(palette= "YlGn")+
+  ggtitle("Ilustración 4. Resultados de Coherencia de OE ")
+  #theme(plot.title = element_text(hjust = -0.5))
+
+```
+**2.3.** *Continuidad:* Hace referencia a la garantía de la producción permanente de la operación
+estadística, basada en la adecuación de los recursos así como en el soporte normativo.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+data_4<-tibble(
+  item_4=c("No continuidad","Continuidad"),
+  porcentaje_4=c(5.13,94.87),
+  cadena_porcentaje_4= str_c(porcentaje_4,"%")
+)
+ggplot(data_4, aes(x="", y=porcentaje_4, fill=item_4)) +
+   geom_bar(stat="identity", color="white") +
+   geom_text(aes(label = cadena_porcentaje_4), 
+             position = position_stack(vjust = 0.5),
+             show.legend = FALSE) +
+   coord_polar("y") + 
+   guides(fill = guide_legend(title = ""))+
+   theme_void() +  
+   scale_fill_brewer(palette= "YlGn")+
+  ggtitle("Ilustración 5. Resultados de Continuidad de OE")
+  #theme(plot.title = element_text(hjust = -0.5))
+
+```
+**2.4.** *Exactitud:* Grado en que los resultados de la operación estadística se aproximan y describen correctamente las cantidades o características que se desean medir.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+data_5<- tibble(
+  item_5=c("No exacta","Exacta"),
+  porcentaje_5=c(38.46,61.54),
+  cadena_porcentaje_5= str_c(porcentaje_5,"%")
+)
+ggplot(data_5, aes(x="", y=porcentaje_5, fill=item_5)) +
+   geom_bar(stat="identity", color="white") +
+   geom_text(aes(label = cadena_porcentaje_5), 
+             position = position_stack(vjust = 0.5),
+             show.legend = FALSE) +
+   coord_polar("y") + 
+   guides(fill = guide_legend(title = ""))+
+   theme_void() +  
+   scale_fill_brewer(palette= "YlGn")+
+  ggtitle("Ilustración 6. Resultados de Exactitud de OE")
+  #theme(plot.title = element_text(hjust = -0.5))
+
+```
+
+**2.5.** *Interpretabilidad:* Facilidad con la que el usuario puede entender, utilizar y analizar los datos;
+teniendo en cuenta el alcance de los mismos, en otros términos, se trata de indagar si en la ficha
+se identifica claramente el ¿qué?, ¿para qué? y el ¿cómo? se adelanta la operación estadística.
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+data_6<- tibble(
+  item_6=c("No interpretable","Interpretable"),
+  porcentaje_6=c(5.13,94.87),
+  cadena_porcentaje_6= str_c(porcentaje_6,"%")
+)
+ggplot(data_6, aes(x="", y=porcentaje_6, fill=item_6)) +
+   geom_bar(stat="identity", color="white") +
+   geom_text(aes(label = cadena_porcentaje_6), 
+             position = position_stack(vjust = 0.5),
+             show.legend = FALSE) +
+   coord_polar("y") + 
+   guides(fill = guide_legend(title = ""))+
+   theme_void() +  
+   scale_fill_brewer(palette= "YlGn")+
+  ggtitle("Ilustración 7. Resultados de Interpretabilidad de OE")
+  #theme(plot.title = element_text(hjust = -0.5))
+
+```
+
+**2.6.** *Oportunidad:* Se refiere al tiempo que transcurre entre la ocurrencia del fenómeno de estudio y la publicación de la información estadística, de tal manera que sea útil para la toma de decisiones. Se verifica si las estadísticas producidas se difunden de manera oportuna, esto es, si la periodicidad de producción del último dato y difusión son coherentes y no distan en más de un periodo una de la otra.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+data_7<- tibble(
+  item_7=c("No oportuna","Oportuna"),
+  porcentaje_7=c(35.96,64.05),
+  cadena_porcentaje_7= str_c(porcentaje_7,"%")
+)
+ggplot(data_7, aes(x="", y=porcentaje_7, fill=item_7)) +
+   geom_bar(stat="identity", color="white") +
+   geom_text(aes(label = cadena_porcentaje_7), 
+             position = position_stack(vjust = 0.5),
+             show.legend = FALSE) +
+   coord_polar("y") + 
+   guides(fill = guide_legend(title = ""))+
+   theme_void() +  
+   scale_fill_brewer(palette= "YlGn")+
+  ggtitle("Ilustración 8. Resultados de Oportunidad de OE")
+  #theme(plot.title = element_text(hjust = -0.5))
+
+```
+
+**2.7.** *Relevancia:* Se refiere al grado en que las estadísticas satisfacen necesidades de información de
+usuarios internos o externos.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+data_8<- tibble(
+  item_8=c("No relevante","Relevante"),
+  porcentaje_8=c(12.82,87.18),
+  cadena_porcentaje_8= str_c(porcentaje_8,"%")
+)
+ggplot(data_8, aes(x="", y=porcentaje_8, fill=item_8)) +
+   geom_bar(stat="identity", color="white") +
+   geom_text(aes(label = cadena_porcentaje_8), 
+             position = position_stack(vjust = 0.5),
+             show.legend = FALSE) +
+   coord_polar("y") + 
+   guides(fill = guide_legend(title = ""))+
+   theme_void() +  
+   scale_fill_brewer(palette= "YlGn")+
+  ggtitle("Ilustración 9. Resultados de Relevancia de OE")
+  #theme(plot.title = element_text(hjust = -0.5))
+
+```
+
+**2.8.** *Transparencia:* Condición bajo la cual el productor de estadísticas pone a disposición de los
+usuarios los metadatos que permiten conocer el desarrollo de la operación estadística.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+data_9<- tibble(
+  item_9=c("No transparente","Transparente"),
+  porcentaje_9=c(35.90,64.10),
+  cadena_porcentaje_9= str_c(porcentaje_9,"%")
+)
+ggplot(data_9, aes(x="", y=porcentaje_9, fill=item_9)) +
+   geom_bar(stat="identity", color="white") +
+   geom_text(aes(label = cadena_porcentaje_9), 
+             position = position_stack(vjust = 0.5),
+             show.legend = FALSE) +
+   coord_polar("y") + 
+   guides(fill = guide_legend(title = ""))+
+   theme_void() +  
+   scale_fill_brewer(palette= "YlGn")+
+  ggtitle("Ilustración 10. Resultados de Transparencia de OE")
+  #theme(plot.title = element_text(hjust = -0.5))
+
+```
+
+### Análisis descriptivo de la información demandada
+
+La demanda de información es entendida como el conjunto de requerimientos de información de
+las diferentes dependencias o equipos de trabajo, necesarios para cumplir con su misionalidad,
+planes de acción y/o atender los requerimientos internos o externos.
+
+Se registró un total de 47 demandadas de información, en 36 de ellas se cuenta con el
+requerimiento que es suministrado directamente por parte de sus productores, la mayoría es
+producidas por dependencias o áreas internas, en 8 casos los productores son externos, las entidades son el ICFES, Bases bibliográficas WOS – SCOPUS, Colciencias, Ministerio de Educación,
+SIC y OMPI.
+
+En el caso de la información con la que no se cuenta, una de estas demandas es producida por el
+Ministerio de educación, el Observatorio de la Educación Superior y OLE, en las otras 10 demandas
+se identificaron áreas o dependencias internas como sus productores.
+
+Para 39 demandas la información se pude obtener de forma gratuita, 3 la obtienen por convenio y
+otras 3 por solicitud, solo en un caso la información es comprada. En la demanda restante se
+registró para esta pregunta un valor no válido como respuesta.
+
+
+### Registros administrativos (RRAA)
+
+### Cruce oferta demanda
+
+### Insumo complementario para identificación de necesidades relacionadas con el
+proceso estadístico
