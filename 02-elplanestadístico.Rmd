@@ -2,10 +2,10 @@
 
 El Plan Estadístico es básicamente una herramienta que identifica, organiza, depura, prioriza y difunde la información estratégica que se requiere para la formulación de políticas, la planeación y
 toma de decisiones, y para la evaluación y seguimiento a los procesos y procedimientos; teniendo
-en cuenta esta definición, el objetivo del plan es entonces “Organizar los procesos de producción y
+en cuenta esta definición, el objetivo del plan es entonces *“organizar los procesos de producción y
 de gestión de la información estadística de la entidad, de modo que se constituya en un soporte
 eficiente para la formulación de políticas públicas, la planeación, la toma de decisiones, el
-seguimiento y la evaluación de los planes misionales”.
+seguimiento y la evaluación de los planes misionales”*.
 
 El plan tiene como uno de sus productos principales la generación de un inventario de
 información, que contiene las fichas técnicas de las operaciones estadísticas, es decir, la

@@ -53,24 +53,32 @@ de las áreas productoras en la entidad, se procedió a capturar el detalle del 
 producción, así como de las necesidades de información estadística, en ese sentido, se realizaron
 las siguientes actividades:
 
-  a) Mesas de trabajo entre el equipo coordinador del
+  * Mesas de trabajo entre el equipo coordinador del
   proyecto, para unificar conceptos, definir 
   roles,responsabilidades y hacer seguimiento a
   los avances del operativo de recolección.
-  b) Adaptación y validación del instrumento 
+  
+  * Adaptación y validación del instrumento 
   derecolección (Formularios de Oferta y Demanda de 
   información estadística y Formato de Caracterización 
   de Registros Administrativos (Anexos).
-  c) Prueba piloto para ajustar los instrumentos de 
+  
+  * Prueba piloto para ajustar los instrumentos de 
   recolección.
-  d) Diseño de aplicativo para captura de información.
-  e) Creación de usuarios y contraseñas de acceso.
-  f) Diligenciamiento del formulario por parte de las 
+  
+  * Diseño de aplicativo para captura de información.
+  
+  * Creación de usuarios y contraseñas de acceso.
+  
+  * Diligenciamiento del formulario por parte de las 
   distintas dependencias de la entidad.
-  g) Retroalimentación y validación conjunta de 
+  
+  * Retroalimentación y validación conjunta de 
   operaciones y registros administrativos.
-  h) Consolidación de la Base de datos.
-  i) Crítica y validación de la información con las
+  
+  * Consolidación de la Base de datos.
+  
+  * Crítica y validación de la información con las
   fuentes.
 
 El proceso se inició con la revisión de la Metodología de Planificación Estadística Estratégica
@@ -127,7 +135,7 @@ punto de partida para la construcción de los metadatos, la elaboración de cuad
 salida, y en general, consultas relacionadas con cualquier etapa dentro del proceso de producción
 de las operaciones estadísticas de la entidad.
 
-Esta base de datos, aparte de constituirse en sí misma, en el “Macro-Inventario” de operaciones
+Esta base de datos, aparte de constituirse en sí misma, en el *“Macro-Inventario”* de operaciones
 estadísticas y registros administrativos de las áreas estratégicas de la universidad, fue el insumo
 principal para la subsiguiente etapa de análisis y diagnóstico.
 
@@ -169,24 +177,20 @@ Estos atributos de calidad son los desarrollados por la OCDE, véase @BibEntry20
 Criterios definidos para el diagnostico de las operaciones estadísticas propias de las dependencias
 del orden nacional de la Universidad Nacional de Colombia.
 
-**a. Documentación técnica de la operación estadística**. Con este criterio se busca responder a la
-pregunta: ¿Qué tan documentada está la operación estadística en relación a los parámetros
+* **Documentación técnica de la operación estadística**. Con este criterio se busca responder a la pregunta: ¿Qué tan documentada está la operación estadística en relación a los parámetros
 establecidos en los campos de la ficha técnica?
 
-  1. Completitud Ficha técnica: Verificación del nivel 
-  de diligenciamiento de los campos de la ficha
+  * **Completitud Ficha técnica:** Verificación del nivel de diligenciamiento de los campos de la ficha
   técnica de la operación estadística documentada por 
   el área o dependencia productora.
-  2. Validez de contenido: Se hace la verificación de 
-  que el contenido en los campos de la ficha
+  
+  * **Validez de contenido:** Se hace la verificación de que el contenido en los campos de la ficha
   técnica guarde correspondencia con lo indagado en 
   cada uno de los ítems.
   
-**b. Calidad del Proceso estadístico**
+* **Calidad del Proceso estadístico**
 
-  1. Accesibilidad. *”Facilidad con que la información 
-  estadística puede ser ubicada y obtenida por
-  los usuarios. Contempla la forma en que ésta se 
+  * **Accesibilidad.** *”Facilidad con que la información estadística puede ser ubicada y obtenida por los usuarios. Contempla la forma en que ésta se 
   provee, los medios de difusión”*[^1], así como la
   disponibilidad de las fichas técnicas y los servicios
   de apoyo para su consulta. Se verifica si los
@@ -197,7 +201,8 @@ establecidos en los campos de la ficha técnica?
   de los resultados de estos criterios se pondera una 
   calificación para la operación entre el rango de
   0-4.
-  2. Coherencia. *“Se refiere al grado en que están 
+  
+  * **Coherencia.** *“Se refiere al grado en que están 
   lógicamente conectados los conceptos utilizados,
   las metodologías aplicadas y los resultados 
   producidos por la operación”*[^1] . Verifica la 
@@ -210,23 +215,22 @@ establecidos en los campos de la ficha técnica?
   información producida por la operación. El objetivo,
   las variables y el universo de estudio pueden
   dar cuenta de la coherencia de una operación.
-  3. Continuidad. *“Hace referencia a la garantía de la
-  permanente de la operación estadística, basada en la 
-  adecuación de los recursos así como en el soporte 
+  
+  * **Continuidad.** *“Hace referencia a la garantía de la permanente de la operación estadística, basada en la adecuación de los recursos así como en el soporte 
   normativo”*[^1] .
-  4. Exactitud. *“Grado en que los resultados de la 
+  
+  * **Exactitud.** *“Grado en que los resultados de la 
   operación estadística se aproximan y describen
   correctamente las cantidades o características que se
   desean medir”*[^1].
-  5. Interpretabilidad. *“Facilidad con la que el
+  
+  * **Interpretabilidad.** *“Facilidad con la que el
   usuario puede entender, utilizar y analizar los
   datos; teniendo en cuenta el alcance de los 
   mismos”*[^1], en otros términos, se trata de indagar
-  si en la ficha
-  se identifica claramente el qué?, para qué? y el
-  cómo? se adelanta la operación estadística.
-  6. Oportunidad. *“Se refiere al tiempo que transcurre
-  entre la ocurrencia del fenómeno de estudio
+  si en la ficha se identifica claramente el ¿qué?, ¿para qué? y el ¿cómo? se adelanta la operación estadística.
+  
+  * **Oportunidad.** *“Se refiere al tiempo que transcurre entre la ocurrencia del fenómeno de estudio
   y la publicación de la información estadística, de
   tal manera que sea útil para la toma de
   decisiones”* [^1]. Se verifica si las estadísticas
@@ -234,10 +238,12 @@ establecidos en los campos de la ficha técnica?
   si la periodicidad de producción del último dato y
   difusión son coherentes y no distan en más de un
   periodo una de la otra.
-  7. Relevancia. *“Se refiere al grado en que las
+  
+  * **Relevancia.** *“Se refiere al grado en que las
   estadísticas satisfacen necesidades de información
   de usuarios”* [^1] internos o externos.
-  8. Transparencia. *“Condición bajo la cual el
+  
+  * **Transparencia.** *“Condición bajo la cual el
   productor de estadísticas pone a disposición de los
   usuarios los metadatos que permiten conocer el
   desarrollo de la operación estadística”*[^1]. Se
@@ -247,9 +253,9 @@ establecidos en los campos de la ficha técnica?
   documentación, información sobre la calidad que puede
   limitar el uso de los datos, etc.).
 
-Elementos del formulario para la revisión de cada uno de los criterios definidos.
+- **Elementos del formulario para la revisión de cada uno de los criterios definidos.**
 
-- *Coherencia:*
+  - **Coherencia:**
   Hace alusión a la concordancia entre los elementos
   del proceso de la operación estadística, esto
 quiere decir que no exista contradicción entre los conceptos utilizados, las metodologías
@@ -260,7 +266,7 @@ Elementos a tener en cuenta:
     - Variables
     - Universo de estudio
     
-- *Oportunidad:*
+  - **Oportunidad:**
 Refleja el tiempo que transcurre entre la generación de la información y su disponibilidad. Se debe
 considerar el contexto de un período de tiempo que permita que la información sea de valor en la
 toma de decisiones. El concepto aplica por igual a los datos coyunturales o estructurales; la única
@@ -273,7 +279,7 @@ Elementos a tener en cuenta:
     - Fecha de última disponibilidad
     - Problemas que afectan la difusión
 
-- *Pertinencia y relevancia:*
+  - **Pertinencia y relevancia:**
 Grado en el que la información sirve para hacer frente a los propósitos para los cuales los usuarios
 buscan esta información. Depende tanto de la cobertura de los temas requeridos como del uso de
 conceptos apropiados.
@@ -285,7 +291,7 @@ Elementos a tener en cuenta:
     - Cobertura
     - Importancia del uso
     
-- *Transparencia:*
+  - **Transparencia:**
 Se refiere al contexto informativo con que se proporcionan los datos al usuario y la disponibilidad
 adicional de meta-datos (explicaciones, documentación, información sobre la calidad que puede
 limitar el uso de los datos, etc.). En algunos casos se evidencia la necesidad de que los datos sean
@@ -376,7 +382,7 @@ a. Análisis del diagnóstico de información con los
 b. Establecer el escenario a partir de la etapa de
     cruce de oferta-demanda:
     
-```{r, echo=FALSE, out.width='100%', fig.align='center', fig.cap='Resultados del cruce de oferta-demanda'}
+```{r, echo=FALSE, out.width='80%', fig.align='center', fig.cap='Resultados del cruce de oferta-demanda'}
 knitr::include_graphics('Imagenes/ima1.png')
 ```
 Fuente: @maldonado2009metodologia.
