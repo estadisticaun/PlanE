@@ -42,7 +42,7 @@ Con base en las discusiones y mesas de trabajo realizadas para la formulación d
 
 La matriz de intervención es un recurso creado para organizar de manera coherente  las acciones y recomendaciones que propone el Plan Estadístico Institucional, y son usadas en el diagnostico y evaluación.
 
-* **Línea estratégica:** En este componente se establece una asociación  entre las fases del proceso estadístico (Detección  y  análisis  de  requerimientos, Ejecución, Análisis, Difusión)  y la cadena de valor ( insumos, procesos, productos y resultados)utilizada como herramienta principal para representar las intervenciones públicas (DNP, 2015a) o las actividades gubernamentales (OCDE, 2009); la asociación se sintetiza en tres grandes procesos en los que se orienta y soporta la actividad estadística en general: Programación Estadística (¿qué?,¿ cuándo?, ¿quién? y ¿dónde? se produce la información estadística?), producción estadística (¿cómo se produce? y ¿cuáles son lineamientos de Aseguramiento de la calidad estadística  y Regulación estadística?), Usabilidad y aprovechamiento de la información generada  (¿Para qué?) y un cuarto proceso se refiere a las adaptaciones institucionales o capacidades para entronizar en funcionarios y dependencias una visión estratégica de la información estadística institucional este proceso se define como cultura estadística. 
+* **Línea estratégica:** En este componente se establece una asociación  entre las fases del proceso estadístico (Detección  y  análisis  de  requerimientos, Ejecución, Análisis, Difusión)  y la cadena de valor (insumos, procesos, productos y resultados)utilizada como herramienta principal para representar las intervenciones públicas (DNP, 2015a) o las actividades gubernamentales (OCDE, 2009); la asociación se sintetiza en tres grandes procesos en los que se orienta y soporta la actividad estadística en general: Programación Estadística (¿qué?,¿ cuándo?, ¿quién? y ¿dónde? se produce la información estadística?), producción estadística (¿cómo se produce? y ¿cuáles son lineamientos de Aseguramiento de la calidad estadística  y Regulación estadística?), Usabilidad y aprovechamiento de la información generada  (¿Para qué?) y un cuarto proceso se refiere a las adaptaciones institucionales o capacidades para entronizar en funcionarios y dependencias una visión estratégica de la información estadística institucional este proceso se define como cultura estadística. 
 
   Con esta organización se busca que se identifiquen y 
   focalicen las intervenciones institucionales en el
@@ -77,7 +77,7 @@ La matriz de intervención es un recurso creado para organizar de manera coheren
   intervención hasta llegar a la definición de
   responsables y tiempos requeridos para su ejecución.
 
-```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='Estructura de la matriz'}
+```{r, echo=FALSE, out.width='60%', fig.align='center', fig.cap='Estructura de la matriz'}
 knitr::include_graphics('Imagenes/diagrama.png')
 ```
 
@@ -103,7 +103,7 @@ Como resultados de la revisión de la información estadística identificada y d
 
 #### Aseguramiento de la Calidad Estadística
 
-Es el instrumento mediante el cual se asegura la calidad del proceso estadístico dentro del marco de los “Principios Fundamentales de las Estadísticas Oficiales de Naciones Unidas” y de los criterios de calidad sugeridos por el DANE como pertinentes para cumplir con los requisitos y necesidades de los usuarios, y así contribuir a la credibilidad, confiabilidad y transparencia en la producción de información estadística (DANE, 2015). Establece un conjunto de procedimientos necesarios, orientados a  garantizar que un producto o servicio cumpla con los estándares de calidad de la información.
+Es el instrumento mediante el cual se asegura la calidad del proceso estadístico dentro del marco de los *“Principios Fundamentales de las Estadísticas Oficiales de Naciones Unidas”* y de los criterios de calidad sugeridos por el DANE como pertinentes para cumplir con los requisitos y necesidades de los usuarios, y así contribuir a la credibilidad, confiabilidad y transparencia en la producción de información estadística (DANE, 2015). Establece un conjunto de procedimientos necesarios, orientados a  garantizar que un producto o servicio cumpla con los estándares de calidad de la información.
 
 Acorde con estas premisas, el objetivo de esta sección es adelantar recomendaciones en torno al proceso de producción de información estadística estratégica en la Universidad Nacional, analizando las principales variables que permiten el aseguramiento de su calidad.
 

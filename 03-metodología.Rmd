@@ -1,7 +1,7 @@
 # Metodología
 
 El presente Plan Estadístico tiene como objetivo ser un referente en términos de organización de
-la actividad estadística de la entidad. Su elaboración y actualización continua permitirá conocer la
+la actividad estadística en la Universidad Nacional de Colombia. Su elaboración y actualización continua permitirá conocer la
 ubicación y características generales de la producción de información estadística estratégica, así
 como las necesidades actuales y futuras, desde el punto de vista de los usuarios actuales y
 potenciales de la misma. Es decir, en la medida en que se considera a la información como un activo de la organización, este trabajo permitirá establecer la oferta y demanda de este activo,
@@ -16,10 +16,10 @@ información estadística que la entidad requiere para el cumplimiento de su mis
 El Departamento Administrativo Nacional de Estadísticas (DANE) ha venido desarrollando un
 conjunto de herramientas metodológicas, que facilitan conceptualmente la elaboración de planes
 estadísticos de carácter institucional (véase @maldonado2009metodologia), de manera que, el actual plan siguió dicha estructura
-metodológica, adaptando los aspectos necesarios de acuerdo con la realidad concreta de la UN.
+metodológica, adaptando los aspectos necesarios de acuerdo con la realidad concreta de la UNAL.
 
 Antes de iniciar el proceso, se realizó una revisión de la estructura funcional de la UN, inicialmente
-con base en el organigrama de la UN, posterior a esto se definieron las áreas que potencialmente
+con base en el organigrama de la UNAL, posterior a esto se definieron las áreas que potencialmente
 contaban con información de carácter estratégico y misional para la UN, esto con el propósito de
 adelantar en conjunto con ellas la construcción del Plan Estadístico Institucional.
 
@@ -29,17 +29,17 @@ El punto de partida de cualquier proyecto de esta magnitud es el reconocimiento 
 y lógicamente la voluntad manifiesta en la asignación de recursos para su ejecución. Por tal
 motivo, con el liderazgo de la Dirección Nacional de Planeación y Estadística, en la primera etapa
 del proyecto se socializó la propuesta con el equipo de delegados de las diferentes direcciones,
-vicerrectorías y demás áreas del orden nacional , para definir la destinación de recurso (humano
+vicerrectorías y demás áreas del orden nacional, para definir la destinación de recurso (humano
 fundamentalmente) para el mismo. De este modo, se definieron los diferentes roles de cada área
 en la formulación del Plan y se consolidó el alcance del mismo.
 
 Estos escenarios de sensibilización y espacios de negociación, se realizaron de manera conjunta y
-mediante encuentros exclusivos con los delegados de cada área o dependencia, para realizarlos,
+mediante encuentros exclusivos con los delegados de cada área o dependencia. Para realizarlos,
 se contactó a funcionarios de cada área para exponer los alcances, objetivos y utilidad del Plan
 Estadístico e identificar el ejercicio estadístico o manejos de información en el cumplimiento de
 sus fines misionales.
 
-Al finalizar las reuniones de sensibilización se llegó a acuerdos en cuanto a quien o quienes eran
+Al finalizar las reuniones de sensibilización se llegó a acuerdos en cuanto a quién o quiénes eran
 las personas más adecuadas para suministrar la información y se acordó la identificación
 preliminar de operaciones estadísticas producidas en cada dependencia, mediante un formato
 diseñado para tal propósito.
@@ -50,18 +50,18 @@ diseñado para tal propósito.
 
 Una vez socializada la propuesta y contando con el apoyo de directivos, profesionales y técnicos
 de las áreas productoras en la entidad, se procedió a capturar el detalle del proceso de
-producción, así como de las necesidades de información estadística, en ese sentido, se realizaron
+producción, así como de las necesidades de información Estadística. En ese sentido, se realizaron
 las siguientes actividades:
 
   * Mesas de trabajo entre el equipo coordinador del
   proyecto, para unificar conceptos, definir 
-  roles,responsabilidades y hacer seguimiento a
+  roles, responsabilidades y hacer seguimiento a
   los avances del operativo de recolección.
   
   * Adaptación y validación del instrumento 
-  derecolección (Formularios de Oferta y Demanda de 
+  de recolección (Formularios de Oferta y Demanda de 
   información estadística y Formato de Caracterización 
-  de Registros Administrativos (Anexos).
+  de Registros Administrativos.
   
   * Prueba piloto para ajustar los instrumentos de 
   recolección.
@@ -76,23 +76,22 @@ las siguientes actividades:
   * Retroalimentación y validación conjunta de 
   operaciones y registros administrativos.
   
-  * Consolidación de la Base de datos.
+  * Consolidación de la base de datos.
   
   * Crítica y validación de la información con las
   fuentes.
 
 El proceso se inició con la revisión de la Metodología de Planificación Estadística Estratégica
 Institucional – PEEI, propuesta y desarrollada por la Dirección de Regulación, Planeación,
-Estandarización y Normalización DIRPEN –DANE 2009, este documento da la orientación acerca de
+Estandarización y Normalización DIRPEN –DANE 2009. Este documento da la orientación acerca de
 cómo debe organizarse la información estadística producida y utilizada por las organizaciones en
 general, contiene además las etapas que se deben seguir para llevar a cabo la formulación del Plan
 Estadístico junto con los instrumentos sugeridos para la recolección de la información de las
 operaciones estadísticas e indicadores producidos y utilizados por las áreas en las entidades.
 
 El siguiente paso a desarrollar, fue el ajuste de los formatos de recolección de información para
-adecuarlos a la estructura organizacional y de información de la UN. Acorde a la estructura del
-formulario se crea una base de datos para consignar la información recolectada, esta se encuentra
-dividida en 11 hojas las cuales contienen los diferentes tipos de información recolectada así:
+adecuarlos a la estructura organizacional y de información de la UNAL. Acorde a la estructura del
+formulario, se creó una base de datos para consignar la información recolectada y contenida en 11 componentes de información los cuales se presentan a continuación. 
 
   1. Identificación de la dependencia.
   2. Identificación de la operación estadística.
@@ -107,19 +106,19 @@ dividida en 11 hojas las cuales contienen los diferentes tipos de información r
   utilizadas de otras dependencias o entidades.
   9. Indicadores utilizadas de otras dependencias o 
   entidades.
-  10. Información estadística requerida (Bases o 
+  10. Información estadística requerida (bases o 
   variables).
   11. Indicadores requeridos.
   
-También se generó una codificación que permitirá identificar a cada dependencia en los formatos
+También se generó una codificación que permitió identificar a cada dependencia en los formatos
 y dentro de la base de datos.
 
-El primer paso en las reuniones era identificar las operaciones estadísticas, cuyo concepto no es de
-fácil comprensión, las operaciones son procesos en los que se lleva a cabo algún tipo de
+El primer paso en las reuniones consistió en identificar las operaciones estadísticas, cuyo concepto no es de
+fácil comprensión. Las operaciones estadísticas son procesos en los que se lleva a cabo algún tipo de
 recolección y almacenamiento de datos, que tiene como fin o que podría tenerlo, la obtención de
-análisis estadísticos. Se tenían dos formas para lograr identificar las operaciones, una, a partir de
+análisis estadísticos. Se definieron dos caminos para lograr identificar las operaciones, uno, a partir de
 los informes producidos por la dependencia y que entre sus resultados presentaran información
-estadística, y la otra, a partir de diálogos en los que los funcionarios daban a conocer los procesos
+estadística y, el otro, a partir de diálogos en los que los funcionarios daban a conocer los procesos
 que llevaban a cabo, el equipo de Plan Estadístico realizaba algunas preguntas que permitían
 identificar si estos eran o no operaciones estadísticas. Posteriormente se continuaba con el
 diligenciamiento del formulario de caracterización de las operaciones.
@@ -130,38 +129,38 @@ duración.
 
 ### Organización de la información
 
-La información recolectada mediante el aplicativo es consolidada en una base de datos, que es el
+La información recolectada mediante el aplicativo se consolidó en una base de datos, la cual se convirtió en el
 punto de partida para la construcción de los metadatos, la elaboración de cuadros y gráficos de
 salida, y en general, consultas relacionadas con cualquier etapa dentro del proceso de producción
 de las operaciones estadísticas de la entidad.
 
 Esta base de datos, aparte de constituirse en sí misma, en el *“Macro-Inventario”* de operaciones
-estadísticas y registros administrativos de las áreas estratégicas de la universidad, fue el insumo
+estadísticas y registros administrativos de las áreas estratégicas de la Universidad, fue el insumo
 principal para la subsiguiente etapa de análisis y diagnóstico.
 
 No obstante haber surtido el proceso de crítica y validación de la información en una etapa previa,
-vale la pena mencionar que en esta etapa de organización también se examinó la calidad y
+vale la pena mencionar que en esta etapa de organización se examinó la calidad y
 consistencia de la información suministrada por las áreas.
 
 ## Diagnóstico de la oferta de operaciones estadísticas
 
 Una vez aplicados los formularios de oferta y demanda de información estadística en todas las
-dependencias, se cuenta con los insumos necesarios para realizar el diagnóstico de la información
-estadística que produce la entidad, que a su vez, es insumo fundamental para la formulación del
-Plan. Dicho diagnóstico, incluye tanto el análisis de oferta como el de demanda, con el fin de
-establecer cuál es el estado real de la producción y en qué grado se satisfacen las necesidades de
+dependencias, se contó con los insumos necesarios para realizar el diagnóstico de la información
+estadística que produce la Universidad, que a su vez, fue insumo fundamental para la formulación del
+Plan. Dicho diagnóstico, incluyó tanto el análisis de oferta como el de demanda, con el fin de
+establecer cuál era el estado real de la producción y en qué grado se satisfacen las necesidades de
 información (internas y externas).
 
 ### Análisis de la oferta de información
 
-La oferta en este caso se entiende como la información producida y puesta a disposición de
+La oferta se entiende como la información producida y puesta a disposición de
 posibles usuarios en un momento determinado. Para evaluar la oferta se tomó como primer
 criterio de evaluación a modo de marco general, el carácter misional o estratégico de la
-información producida por la UN. Lo anterior es claro en el sentido en que la producción de
+información producida por la UNAL. Lo anterior es claro en el sentido en que la producción de
 estadísticas debe obedecer a las necesidades de información para la toma oportuna y acertada de
-decisiones estratégicas de la universidad, cabe aclararse, que no se desconoce la importancia de la
+decisiones estratégicas de la Universidad. Cabe aclararse, que no se desconoce la importancia de la
 información estadística que permite medir y hacer seguimiento a la gestión de cada una de las
-áreas vinculadas al proceso, solo que en el desarrollo del Plan solo se considero la producción de
+áreas vinculadas al proceso, solo que en el desarrollo del Plan solo se consideró la producción de
 información estratégica.
 
 Por otro lado, también como criterio de evaluación de la información producida, se definió la
@@ -174,32 +173,31 @@ Estos atributos de calidad son los desarrollados por la OCDE, véase @BibEntry20
 
 #### Criterios para revisión de operaciones estadísticas ofertadas por las dependencias UN
 
-Criterios definidos para el diagnostico de las operaciones estadísticas propias de las dependencias
-del orden nacional de la Universidad Nacional de Colombia.
+Los criterios definidos para el diagnóstico de las operaciones estadísticas propias de las dependencias
+del orden nacional de la Universidad Nacional de Colombia fueron: 
 
-* **Documentación técnica de la operación estadística**. Con este criterio se busca responder a la pregunta: ¿Qué tan documentada está la operación estadística en relación a los parámetros
+* **Documentación técnica de la operación estadística**. Con este criterio se buscó responder a la pregunta: ¿Qué tan documentada está la operación estadística en relación a los parámetros
 establecidos en los campos de la ficha técnica?
 
-  * **Completitud Ficha técnica:** Verificación del nivel de diligenciamiento de los campos de la ficha
+  * **Completitud ficha técnica:** Verificación del nivel de diligenciamiento de los campos de la ficha
   técnica de la operación estadística documentada por 
   el área o dependencia productora.
   
-  * **Validez de contenido:** Se hace la verificación de que el contenido en los campos de la ficha
+  * **Valídez de contenido:** Se hace la verificación de que el contenido en los campos de la ficha
   técnica guarde correspondencia con lo indagado en 
   cada uno de los ítems.
   
-* **Calidad del Proceso estadístico**
+* **Calidad del proceso estadístico**
 
   * **Accesibilidad.** *”Facilidad con que la información estadística puede ser ubicada y obtenida por los usuarios. Contempla la forma en que ésta se 
   provee, los medios de difusión”*[^1], así como la
   disponibilidad de las fichas técnicas y los servicios
   de apoyo para su consulta. Se verifica si los
-  resultados de la operación estadística, se divulgan
+  resultados de la operación estadística se divulgan
   por medios de mayor difusión como página web o 
   sistema de información de manera que los distintos 
-  usuarios pueden acceder fácilmente a éstos,
-  de los resultados de estos criterios se pondera una 
-  calificación para la operación entre el rango de
+  usuarios pueden acceder fácilmente a éstos. A partir de los resultados de estos criterios se pondera una 
+  calificación para la operación en un rango de
   0-4.
   
   * **Coherencia.** *“Se refiere al grado en que están 
@@ -286,8 +284,8 @@ conceptos apropiados.
 Elementos a tener en cuenta:
     - Objetivo
     - Variables
-    - Identificación de usuarios.
-    - Identificación necesidades de los usuarios.
+    - Identificación de usuarios
+    - Identificación necesidades de los usuarios
     - Cobertura
     - Importancia del uso
     
@@ -310,21 +308,21 @@ las diferentes dependencias o equipos de trabajo, necesarios para cumplir con su
 planes de acción y/o atender los requerimientos internos o externos.
 
 En los apartados anteriores se han descrito las etapas para realizar un análisis de oferta y
-caracterización de las demandas de información a “micro –niveles”, al interior de la entidad, lo
+caracterización de las demandas de información a *“micro –niveles”*, al interior de la Universidad, lo
 cual es de gran utilidad porque permite diagnosticar el estado de la producción actual e identificar
 las oportunidades de mejora en cuanto a la información que emplean unas dependencias,
 proveniente de otras dependencias o entidades diferentes.
 
-En esta etapa del Plan Estadístico, se adelanta el cruce de la totalidad de la oferta y la demanda,
-es decir, todo lo que se produce ( operaciones estadísticas, consolidado de registros
+En esta etapa del Plan Estadístico, se adelantó el cruce de la totalidad de la oferta y la demanda,
+es decir, todo lo que se produce (operaciones estadísticas, consolidado de registros
 administrativos) y todo lo que se requiere, en términos de información estadística, para el
-cumplimiento de la misión de la Universidad . Esto permite, por un lado, establecer los flujos de
-información dentro y fuera, así mismo, permite identificar aquellos requerimientos que pueden
+cumplimiento de la misión de la Universidad. Esto permitió, por un lado, establecer los flujos de
+información dentro y fuera. Así mismo, permitió identificar aquellos requerimientos que pueden
 ser atendidos, de manera parcial o total, por la información estadística existente.
 
 El hecho de tener una visión global de las existencias, usos y necesidades no satisfechas de
-información, facilita la tarea de priorización de la producción (etapa siguiente), en la medida en
-que permite una visión decanta de las necesidades, potencialidades, y limitaciones de la entidad
+información, facilitó la tarea de priorización de la producción (etapa siguiente), en la medida en
+que permitió una visión decanta de las necesidades, potencialidades, y limitaciones de la Universidad
 en materia de producción estadística.
 
 Si pensamos en el estado ideal, como un equilibrio entre lo que se produce (la oferta) y lo que se
@@ -343,15 +341,15 @@ oficinas, dependencias o entidades, que están supliendo efectivamente las neces
 información en cada dependencia que reportó ser usuario de información estadística de otras
 fuentes. El análisis de esta información incluye un diagnóstico de satisfacción dado por los
 usuarios o demandantes, considerando la disponibilidad de la información y las restricciones o
-inconvenientes que presente la información, como son: Cobertura temática, cobertura geográfica, confiabilidad, credibilidad de los resultados, reserva estadística, oportunidad de los resultados,
+inconvenientes que presente la información, como son: cobertura temática, cobertura geográfica, confiabilidad, credibilidad de los resultados, reserva estadística, oportunidad de los resultados,
 accesibilidad y procesamiento.
 
 ### Análisis de demanda no safisfecha de información
 
 La demanda no satisfecha de información es el conjunto de requerimientos que tienen algunos
-demandantes de información no atendidos con la oferta disponible, para verificar que es
+demandantes de información no atendidos con la oferta disponible. Para verificar que es
 efectivamente demanda insatisfecha, se verifica que en todo el inventario consolidado de
-información, esta no se esté produciendo, en caso contrario que si se identifique productor se
+información, esta no se esté produciendo, en caso contrario que sí se identifique productor se
 clasifica como demanda satisfecha y se busca establecer el mecanismo de intercambio entre
 oferentes y demandantes.
 
@@ -364,13 +362,13 @@ para el buen desempeño de las funciones de cada dependencia, en particular.
 ## Metodología para la formulación del Plan Estadístico
 
 La etapa final del proceso, es decir, la formulación del Plan Estadístico, permitió organizar y
-priorizar la actividad estadística de las áreas productoras al interior de la entidad, determinando
+priorizar la actividad estadística de las áreas productoras al interior de la Universidad, determinando
 las operaciones estadísticas que deben producirse en un periodo determinado y asignando
 responsabilidades para su desarrollo. Las prioridades de información que se establecen están
 orientadas a soportar y fortalecer el diseño y desarrollo de los planes, programas y proyectos
 contemplados en el plan de desarrollo institucional y en las políticas y planes misionales.
 
-Como resultado de la formulación del plan, se obtuvo la definición de proyectos estadísticos
+Como resultado de la formulación del Plan, se obtuvo la definición de proyectos estadísticos
 nuevos, operaciones estadísticas y/o indicadores que deben emprender acciones de mejora y
 operaciones estadísticas y/o indicadores que deben continuar generándose bajo los estándares
 actuales.

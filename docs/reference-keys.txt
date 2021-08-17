@@ -90,3 +90,4 @@ plan-de-acción
 líneas-estratégicas-i-lineamientos-conceptuales-y-metodológicos
 línea-estratégica-ii-producción-estadística
 línea-estratégica-iii-cultura-estadística
+fig:unnamed-chunk-1

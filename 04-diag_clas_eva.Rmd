@@ -23,7 +23,7 @@ información producida por la UN. Lo anterior es claro en el sentido en que la p
 estadísticas debe obedecer a las necesidades de información para la toma oportuna y acertada de
 decisiones estratégicas de la universidad, cabe aclararse, que no se desconoce la importancia de la
 información estadística que permite medir y hacer seguimiento a la gestión de cada una de las
-áreas vinculadas al proceso, solo que en el desarrollo del Plan solo se consideró la producción de
+áreas vinculadas al proceso, solo que en el desarrollo del Plan se consideró la producción de
 información estratégica.
 
 Para la Universidad Nacional de Colombia se identificó una producción de 43 operaciones
@@ -116,7 +116,7 @@ ggplot(data_2, aes(x="", y=porcentaje_2, fill=item_2)) +
 ##### Accesibilidad
 
 Facilidad con que la información estadística puede ser ubicada y obtenida por los usuarios. Contempla la forma en que ésta se provee, los medios de difusión, así como la disponibilidad de las fichas técnicas y los servicios de apoyo para su consulta. Se verifica si los
-resultados de la operación estadística, se divulgan por medios de mayor difusión como página web o sistema de información de manera que los distintos usuarios pueden acceder fácilmente a éstos, de los resultados de estos criterios se asigna una calificación para la operación entre el rango de 0-4.
+resultados de la operación estadística, se divulgan por medios de mayor difusión como página web o sistema de información de manera que los distintos usuarios pueden acceder fácilmente a éstos. De los resultados de estos criterios se asigna una calificación para la operación entre el rango de 0-4.
 
 ```{r, echo= FALSE, message=FALSE, warning=FALSE, fig.cap='Resultados de Accesibilidad de OE'}
 library(tidyverse)  
@@ -329,7 +329,7 @@ producidas por dependencias o áreas internas, en 8 casos los productores son ex
 SIC y OMPI.
 
 En el caso de la información con la que no se cuenta, una de estas demandas es producida por el
-Ministerio de educación, el Observatorio de la Educación Superior y OLE, en las otras 10 demandas
+Ministerio de Educación, el Observatorio de la Educación Superior y OLE, en las otras 10 demandas
 se identificaron áreas o dependencias internas como sus productores.
 
 Para 39 demandas la información se pude obtener de forma gratuita, 3 la obtienen por convenio y
@@ -468,7 +468,7 @@ ggplot(bardata_6, aes(x=calificacion_6, y=valor_6, fill=factor(valor_6))) +
 Como resultados de la indagación de información estadística usada o producida por las diferentes
 áreas o dependencias que conforman el nivel central de la Universidad Nacional, se identificó que
 buena parte de la información estadística producida usa como fuente primaria de datos la
-información consolidada mediante registros administrativos [^2] , en ese sentido, cada dependencia
+información consolidada mediante registros administrativos [^2], en ese sentido, cada dependencia
 adelantó en un formato estándar la documentación de las características técnicas de los registros
 que están bajo su responsabilidad, en total se identificaron y diligenciaron sesenta y nueve
 registros administrativos, los cuales para su consulta y potencial uso estadístico, fueron
@@ -580,26 +580,22 @@ caso en el que los requerimientos no estén siendo satisfechos, el diagrama mues
 knitr::include_graphics('Imagenes/ima2.png')
 ```
 
-La DNA presento tres requerimientos, y cuenta con esta información, considera la información
+La DNA presentó tres requerimientos, y cuenta con esta información, considera la información
 suministrada satisface completamente sus necesidades.
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='DNTIC'}
 knitr::include_graphics('Imagenes/ima3.png')
 ```
 
-La DNTIC presentó el requerimiento 17:1 “Información del inventario semestral de activos
-tecnológicos de Hardware y software de la Universidad Nacional” con el cual no cuenta, de
-acuerdo a la información documentadas, se considera que la operación 25:1 “Indicadores del
-proceso de Adquisición de Bienes y Servicios” de la GNFA, podría ser una fuente de información, y
-otra posible fuente seria el registro administrativo 42:1 “Reporte de Información general técnica, administrativa y jurídica sobre los activos inmobiliarios de la Universidad en el Sistema SIGA
-(Gestión de bienes)” también de esta área.
+La DNTIC presentó el requerimiento 17:1 *“Información del inventario semestral de activos tecnológicos de Hardware y software de la Universidad Nacional”* con el cual no cuenta, de
+acuerdo a la información documentadas, se considera que la operación 25:1 *“Indicadores del proceso de Adquisición de Bienes y Servicios”* de la GNFA, podría ser una fuente de información, y
+otra posible fuente seria el registro administrativo 42:1 *“Reporte de Información general técnica, administrativa y jurídica sobre los activos inmobiliarios de la Universidad en el Sistema SIGA (Gestión de bienes)”* también de esta área.
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap= 'DNTIC'}
 knitr::include_graphics('Imagenes/ima4.png')
 ```
 
-Para la DRE, la información suministrada por el SIA para su requerimiento 29:1 “Registros
-completos y oportunos de las movilidades efectivas entrantes y salientes” satisface parcialmente
+Para la DRE, la información suministrada por el SIA para su requerimiento 29:1 *“Registros completos y oportunos de las movilidades efectivas entrantes y salientes”* satisface parcialmente
 sus necesidades de información, esto debido a que las sedes, a quienes se les solicita la
 información en muchas ocasiones no tienen esta información consolidada.
 
@@ -607,8 +603,7 @@ información en muchas ocasiones no tienen esta información consolidada.
 knitr::include_graphics('Imagenes/ima5.png')
 ```
 
-Para la DNPCP, la información suministrada para sus requerimientos: “Registros académicos
-periódicos – SIA (31:1)” y “Registros académicos periódicos – DNA” (31:3), satisfacen
+Para la DNPCP, la información suministrada para sus requerimientos: *“Registros académicos periódicos – SIA (31:1)”* y *“Registros académicos periódicos – DNA”* (31:3), satisfacen
 parcialmente sus necesidades de información, el motivo es que cada usuario no tiene un
 identificador entre las diferentes bases de datos, aunque estas son de la misma Universidad. Para
 sus otros tres requerimientos la satisfacción con la información suministrada es completa.
@@ -645,10 +640,7 @@ variables y no se tiene acceso a que corresponden los códigos.
 knitr::include_graphics('Imagenes/ima7.png')
 ```
 
-La dependencia DNPR tiene dos requerimientos de información “Valoración de la calidad de los
-productos académicos -artículos científicos- producidos por la comunidad Académica de la
-Universidad (factor de impacto, cuartil, etc.)” y “Citas y co-citaciones de artículos científicos
-producidos por la comunidad Académica de la Universidad” esta demanda está completamente
+La dependencia DNPR tiene dos requerimientos de información *“Valoración de la calidad de losproductos académicos -artículos científicos- producidos por la comunidad Académica de la Universidad (factor de impacto, cuartil, etc.)”* y *“Citas y co-citaciones de artículos científicos producidos por la comunidad Académica de la Universidad”* esta demanda está completamente
 insatisfecha, y no fue posible identificar entre las operaciones y registros documentados en el Plan
 Estadístico información que pudiera satisfacerla, por ello se hace necesario identificar qué área
 podría y tendría la responsabilidad de producirla.
@@ -659,7 +651,7 @@ knitr::include_graphics('Imagenes/ima8.png')
 
 En cuatro de los cinco requerimientos reportados por la GNFA, la satisfacción con la información
 que les es suministrada por otras áreas o Entidades es completa; para el requerimiento 39:5
-“Implementación del Sistema de Costos de la Universidad Nacional de Colombia” la satisfacción es
+*“Implementación del Sistema de Costos de la Universidad Nacional de Colombia”* la satisfacción es
 parcial, la razón es que la información remitida por las dependencias requieren un procesamiento
 para poder presentar información desagregada por programa curricular.
 
@@ -668,27 +660,20 @@ knitr::include_graphics('Imagenes/ima9.png')
 ```
 
 La DNPE reporta 14 requerimientos de información, de ellos, dos reportaron tener una
-satisfacción parcial con la información recibida, el 43:12 “Talento humano (Docentes y
-administrativos)”, el motivo es que no cuentan con el nivel de formación de los empleados
-administrativos. Y el 43:15 “Bienestar Universitario”, pero no se reportó el motivo.
+satisfacción parcial con la información recibida, el 43:12 *“Talento humano (Docentes y administrativos)”*, el motivo es que no cuentan con el nivel de formación de los empleados
+administrativos. Y el 43:15 *“Bienestar Universitario”*, pero no se reportó el motivo.
 
-Los requerimientos 43:1 “Movilidad entrante de docentes y administrativos”, 43:2 “Indicadores de
-infraestructura física”, 43:7 “Egresados de la Universidad Nacional de Colombia”, son demandas
+Los requerimientos 43:1 *“Movilidad entrante de docentes y administrativos”*, 43:2 *“Indicadores de infraestructura física”*, 43:7 *“Egresados de la Universidad Nacional de Colombia”*, son demandas
 insatisfechas de información y no se identificaron operación o registros que pudieran generarla.
-Dos posibles fuentes para la producción del requerimiento 43:3, “Información ambiental”, son las
-operaciones 87:1 y 87:2, “Consolidado de indicadores ambientales de la Universidad Nacional” y
-“GREENMETRIC” del SIGA, ó el registro administrativo 51:4 “Sistema de Gestión Ambiental -
-GREENMETRIC” de la VRG.
+Dos posibles fuentes para la producción del requerimiento 43:3, *“Información ambiental”*, son las
+operaciones 87:1 y 87:2, *“Consolidado de indicadores ambientales de la Universidad Nacional”* y
+*“GREENMETRIC”* del SIGA, ó el registro administrativo 51:4 *“Sistema de Gestión Ambiental - GREENMETRIC”* de la VRG.
 
-El requerimiento 43:4 “Información de infraestructura tecnológica” puede tener como fuente el
-registro administrativo 34:3 “Registro de laboratorios y equipos” de la VRI.
+El requerimiento 43:4 *“Información de infraestructura tecnológica”* puede tener como fuente el
+registro administrativo 34:3 *“Registro de laboratorios y equipos”* de la VRI.
 
 El requerimiento 43:6 puede tener tres posibles fuentes de información, las operaciones 33:1
-“Consolidación de Estadísticas de Personal Académico y Administrativo”, 12:1” Consolidación de
-información de inscritos y admitidos a los programas curriculares de pregrado semestralmente por
-la universidad Nacional de Colombia” y 12:3“Consolidación de información de inscritos y admitidos
-a los programas curriculares de posgrado semestralmente por la universidad Nacional de
-Colombia”.
+*“Consolidación de Estadísticas de Personal Académico y Administrativo”*, 12:1 *“Consolidación de información de inscritos y admitidos a los programas curriculares de pregrado semestralmente por la universidad Nacional de Colombia”* y 12:3 *“Consolidación de información de inscritos y admitidos a los programas curriculares de posgrado semestralmente por la universidad Nacional de Colombia”*.
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='OPB'}
 knitr::include_graphics('Imagenes/ima10.png')
@@ -709,7 +694,7 @@ necesitan, no fue posible identificar una operación o registro que la produjera
 knitr::include_graphics('Imagenes/ima12.png')
 ```
 
-El requerimiento de la VRG “Informe Revisión por la Dirección” que se alimenta con todos los
+El requerimiento de la VRG *“Informe Revisión por la Dirección”* que se alimenta con todos los
 procesos de la Universidad, está siendo parciamente satisfecho para sus usuarios, eso debido a
 que no siempre envían la información de manera completa y oportuna, por no contar con un
 sistema implementado.
@@ -783,7 +768,7 @@ los funcionarios reportaron utilizar otros programas.
 
 ```{r, echo= FALSE, message=FALSE, warning=FALSE}
 library(tidyr)  
-
+library(ggplot2)
 bardata_7 <-tibble( 
   calificacion_7=c("Percepción 1", "Percepción 2","Percepción 3"),
   valor_7=c(8,27,23)
@@ -798,7 +783,7 @@ ggplot(bardata_7, aes(x=calificacion_7, y=valor_7, fill=factor(valor_7))) +
   theme(legend.position = "none")+
   ylab("") + xlab("") +
   coord_flip() +
-  labs(caption = "Percepción 1: Ha recibido capacitación en temas de gestión de información estadística.\nPercepción 2: Considera necesaria alguna capacitación para mejorar sus competencias en\n manejo y procesamiento de información. \nPercepción 3: En su área o dependencia identifica alguna dificultad o debilidad  para el manejo\ny procesamiento de información.") +
+  labs(caption = "Percepción 1: Ha recibido capacitación en temas de gestión de información estadística.\nPercepción 2: Considera necesaria alguna capacitación para mejorar sus competencias en\n manejo y procesamiento de información. \nPercepción 3: En su área o dependencia identifica alguna dificultad o debilidad  para el manejo\ny procesamiento de información.") + scale_x_discrete(limits=c("Percepción 3", "Percepción 2","Percepción 1f"))+
     theme(plot.caption=element_text(size=10, hjust=0, face="italic", color="black"))
 
 
@@ -830,7 +815,8 @@ ggplot(bardata_8, aes(x=calificacion_8, y=valor_8, fill=factor(valor_8))) +
   theme(legend.position = "none")+
   ylab("") + xlab("") +
   coord_flip() +
-  labs(caption = "Percepción 1: Considera que el personal de su dependencia es suficiente para atender las\ndemandas de información estadística.\nPercepción 2: Considera que su área o dependencia ha presentado dificuldades para la\nentrega oportuna de la información estadística. \nPercepción 3: Tiene restrincciones para la descarga desde sitios WEB de herramientas para la\ngestón de la información estadística. \nPercepción 4: El equipo del que dispone es adecuado para el manejo de la información. \nPercepción 5: Cuenta con un equipo de cómputo de manera permanente. ") +
+  labs(caption = "Percepción 1: Considera que el personal de su dependencia es suficiente para atender las\ndemandas de información estadística.\nPercepción 2: Considera que su área o dependencia ha presentado dificuldades para la\nentrega oportuna de la información estadística. \nPercepción 3: Tiene restrincciones para la descarga desde sitios WEB de herramientas para la\ngestión de la información estadística. \nPercepción 4: El equipo del que dispone es adecuado para el manejo de la información. \nPercepción 5: Cuenta con un equipo de cómputo de manera permanente. ") +
+  scale_x_discrete(limits=c("Percepción 5","Percepción 4","Percepción 3", "Percepción 2","Percepción 1"))+
     theme(plot.caption=element_text(size=10, hjust=0, face="italic", color="black"))
   
 
@@ -862,7 +848,8 @@ ggplot(bardata_9, aes(x=calificacion_9, y=valor_9, fill=factor(valor_9))) +
   theme(legend.position = "none")+
   ylab("") + xlab("") +
   coord_flip() +
-  labs(caption = "Percepción 1: Considera que la información producida por su dependencia se difunde a todas\nlas dependencias o entidades que la requieren.\nPercepción 2: Antes de difundir la información estadística recolectada y producida por su\ndependencia, se aplica algún procedimiento para verificar la calidad de la información.\nPercepción 3: En su dependencia se adelanta el análisis y verificación de los resultados\nobtenidos. \nPercepción 4: Considera que la producción de información estadística en su dependencia\natiende las condiciones y tiempos previamente definidos. \nPercepción 5: La información estadística que se produce en su dependencia cuenta con una\nmetodología documentada. \nPercepción 6: Considera que la información estadística que se produce en su dependencia\natiende a todos los requerimientos actuales de información. ") + theme(plot.caption=element_text(size=10, hjust=0, face="italic", color="black"))
+  labs(caption = "Percepción 1: Considera que la información producida por su dependencia se difunde a todas\nlas dependencias o entidades que la requieren.\nPercepción 2: Antes de difundir la información estadística recolectada y producida por su\ndependencia, se aplica algún procedimiento para verificar la calidad de la información.\nPercepción 3: En su dependencia se adelanta el análisis y verificación de los resultados\nobtenidos. \nPercepción 4: Considera que la producción de información estadística en su dependencia\natiende las condiciones y tiempos previamente definidos. \nPercepción 5: La información estadística que se produce en su dependencia cuenta con una\nmetodología documentada. \nPercepción 6: Considera que la información estadística que se produce en su dependencia\natiende a todos los requerimientos actuales de información. ") +
+  scale_x_discrete(limits=c("Percepción 6","Percepción 5","Percepción 4","Percepción 3", "Percepción 2","Percepción 1"))+theme(plot.caption=element_text(size=10, hjust=0, face="italic", color="black"))
   
 
 
@@ -903,12 +890,7 @@ Nueve de los funcionarios realizaron comentarios adicionales a lo indagado, la s
   entendibles y accesibles rápidamente.
   
 * Es necesario establecer los indicadores básicos lo
-  más pronto posible; o por lo menos una metodología  
-  estandarizada y articulada con las diferentes 
-  facultades, revisión de los que existe. Se debe 
-  establecer un papel más activo a cada una de las 
-  facultades, institutos y dependencias; tener en 
-  cuenta sus necesidades básicas de información.
+  más pronto posible; o por lo menos una metodología  estandarizada y articulada     con las diferentes facultades, revisión de los que existe. Se debe establecer un papel más activo a cada una de las facultades, institutos y dependencias; tener en cuenta sus necesidades básicas de información.
   
 * Las bases de datos que están almacenadas muchas veces
   no son compatibles con las sedes o no se comparte con
