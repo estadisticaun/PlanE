@@ -1,17 +1,17 @@
 # Dignóstico, clasificación y evaluación de la oferta y la demanda de operaciones estadísticas e indicadores
 
-La información necesaria para construir el inventario de información estadística, se capturó en
-cada una de las dependencias del nivel nacional de la UN, no obstante, los análisis de diagnóstico
-son presentados a nivel núcleos de información, aunque en su interior, las operaciones son
+La información necesaria para construir el inventario de información estadística se capturó en
+cada una de las dependencias del nivel nacional de la UNAL. No obstante, los análisis de diagnóstico
+son presentados a nivel de núcleos de información, aunque en su interior, las operaciones son
 asociadas al responsable de su producción.
 
 ## Diagnóstico de la oferta de operaciones estadísticas
 
 Una vez aplicados los formularios de oferta y demanda de información estadística en todas las
-dependencias, se cuenta con los insumos necesarios para realizar el diagnóstico de la información
-estadística que produce la entidad, que a su vez, es insumo fundamental para la formulación del
-Plan. Dicho diagnóstico, incluye tanto el análisis de oferta como el de demanda, con el fin de
-establecer cuál es el estado real de la producción y en qué grado se satisfacen las necesidades de
+dependencias, se contó con los insumos necesarios para realizar el diagnóstico de la información
+estadística que produce la Universidad, que a su vez, es insumo fundamental para la formulación del
+Plan. Dicho diagnóstico, incluyó tanto el análisis de oferta como el de demanda, con el fin de
+establecer cuál era el estado real de la producción y en qué grado se satisfacen las necesidades de
 información (internas y externas).
 
 ### Análisis de la oferta de información
@@ -19,9 +19,9 @@ información (internas y externas).
 La oferta en este caso se entiende como la información producida y puesta a disposición de
 posibles usuarios en un momento determinado. Para evaluar la oferta se tomó como primer
 criterio de evaluación a modo de marco general, el carácter misional o estratégico de la
-información producida por la UN. Lo anterior es claro en el sentido en que la producción de
+información producida por la UNAL. Lo anterior es claro en el sentido en que la producción de
 estadísticas debe obedecer a las necesidades de información para la toma oportuna y acertada de
-decisiones estratégicas de la universidad, cabe aclararse, que no se desconoce la importancia de la
+decisiones estratégicas de la Universidad, cabe aclararse, que no se desconoce la importancia de la
 información estadística que permite medir y hacer seguimiento a la gestión de cada una de las
 áreas vinculadas al proceso, solo que en el desarrollo del Plan se consideró la producción de
 información estratégica.
@@ -33,7 +33,7 @@ producción.
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyr)
-operacion<- c("Consolidación de información de inscritos y admitidos a los programas curriculares de pregrado semestralmente por la universidad Nacional de Colombia", "Consolidación de información de inscritos y admitidos a los programas curriculares de posgrado semestralmente por la universidad Nacional de Colombia", "Estadísticas de gestión anual del Sistema de Bienestar Universitario", "Medición de la Satisfacción del Usuario", "Identificación de potencialidades y vulnerabilidades al momento del ingreso para estudiantes de pregrado.", "Medición de Indicadores de Gestión", "Monitoreo de prensa", "Seguimiento a las órdenes contractuales de prestación de servicios de personas naturales de la Universidad Nacional de Colombia", "Informe Seguimiento a la información del proceso de Gestión de Bienes","Informe consolidado de Ejecución Presupuestal (Presupuesto)","Memoria Financiera (Gerencia Nacional Financiera y Administrativa)","Indicadores del proceso de Adquisición de Bienes y Servicios","Estadísticas de contratación","Estados Contables Consolidados UN","Seguimiento al sistema de peticiones de la Universidad Nacional","Seguimiento a la rendición de cuentas","Consolidar las estadísticas de la Sede Bogotá","Seguimiento al Plan de Acción institucional","Libro de capacidades de Investigación de la Universidad Nacional de Colombia","Consolidación de la información estadística para los procesos de autoevaluación y evaluación continua","Consolidación de la movilidad estudiantil entrante y saliente","Convenios nacionales e internacionales","Indicadores opinión de apoyo a la autoevaluación de los programas de pregrado","Indicadores estadísticos de apoyo a la autoevaluación de los programas de pregrado","Consolidación de Estadísticas de Personal Académico y Administrativo","Consolidación del Informe Docente","Consolidación Programación anual Presupuesto Gastos de Nómina","Consolidación del gasto mensualizado de nómina por sede (PAC - Plan anual mensualizado de caja)","Informe anual costos de personal","Construcción de la revista de estadísticas e indicadores de la Universidad Nacional de Colombia","Seguimiento al Plan de desarrollo de la Universidad Nacional de Colombia","Distribución y seguimiento de los recursos de inversión","Consolidación de Indicadores de Extensión de la Universidad Nacional de Colombia","Generador de indicadores","Encuesta de satisfacción al usuario","Reporte mensual, Unidad del Servicio Público de Empleo","Reporte indicadores del Sistema Nacional de Bibliotecas","Consolidación de Procesos Judiciales y de conciliación de las Sedes","Consolidación de la información editorial de la Universidad Nacional de Colombia","Consolidado de indicadores ambientales de la Universidad Nacional","Consolidación de la medición de indicadores ambientales - GREENMETRIC","Consolidación de la información de encuestas para los procesos de autoevaluación y evaluación continua","Medición de la satisfacción del usuario") 
+operacion<- c("Consolidación de información de inscritos y admitidos a los programas curriculares de pregrado semestralmente por la Universidad Nacional de Colombia", "Consolidación de información de inscritos y admitidos a los programas curriculares de posgrado semestralmente por la universidad Nacional de Colombia", "Estadísticas de gestión anual del Sistema de Bienestar Universitario", "Medición de la Satisfacción del Usuario", "Identificación de potencialidades y vulnerabilidades al momento del ingreso para estudiantes de pregrado.", "Medición de Indicadores de Gestión", "Monitoreo de prensa", "Seguimiento a las órdenes contractuales de prestación de servicios de personas naturales de la Universidad Nacional de Colombia", "Informe Seguimiento a la información del proceso de Gestión de Bienes","Informe consolidado de Ejecución Presupuestal (Presupuesto)","Memoria Financiera (Gerencia Nacional Financiera y Administrativa)","Indicadores del proceso de Adquisición de Bienes y Servicios","Estadísticas de contratación","Estados Contables Consolidados UN","Seguimiento al sistema de peticiones de la Universidad Nacional","Seguimiento a la rendición de cuentas","Consolidar las estadísticas de la Sede Bogotá","Seguimiento al Plan de Acción institucional","Libro de capacidades de Investigación de la Universidad Nacional de Colombia","Consolidación de la información estadística para los procesos de autoevaluación y evaluación continua","Consolidación de la movilidad estudiantil entrante y saliente","Convenios nacionales e internacionales","Indicadores opinión de apoyo a la autoevaluación de los programas de pregrado","Indicadores estadísticos de apoyo a la autoevaluación de los programas de pregrado","Consolidación de Estadísticas de Personal Académico y Administrativo","Consolidación del Informe Docente","Consolidación Programación anual Presupuesto Gastos de Nómina","Consolidación del gasto mensualizado de nómina por sede (PAC - Plan anual mensualizado de caja)","Informe anual costos de personal","Construcción de la Revista de Estadísticas e indicadores de la Universidad Nacional de Colombia","Seguimiento al Plan de Desarrollo de la Universidad Nacional de Colombia","Distribución y seguimiento de los recursos de inversión","Consolidación de Indicadores de Extensión de la Universidad Nacional de Colombia","Generador de indicadores","Encuesta de satisfacción al usuario","Reporte mensual, Unidad del Servicio Público de Empleo","Reporte indicadores del Sistema Nacional de Bibliotecas","Consolidación de Procesos Judiciales y de conciliación de las Sedes","Consolidación de la información editorial de la Universidad Nacional de Colombia","Consolidado de indicadores ambientales de la Universidad Nacional","Consolidación de la medición de indicadores ambientales - GREENMETRIC","Consolidación de la información de encuestas para los procesos de autoevaluación y evaluación continua","Medición de la satisfacción del usuario") 
 productor<-c("Dirección Nacional de Admisiones", "Dirección Nacional de Admisiones", "Dirección Nacional de Bienestar Universitario", "Dirección Nacional de Bienestar Universitario","Dirección Nacional de Bienestar Universitario", "Dirección Nacional de Bienestar Universitario", "UNIMEDIOS", "Gerencia Nacional Financiera y Administrativa", "Gerencia Nacional Financiera y Administrativa","Gerencia Nacional Financiera y Administrativa","Gerencia Nacional Financiera y Administrativa","Gerencia Nacional Financiera y Administrativa","Gerencia Nacional Financiera y Administrativa","Gerencia Nacional Financiera y Administrativa","Vicerrectoría General","Oficina De Planeación Sede Bogotá","Oficina De Planeación Sede Bogotá","Oficina De Planeación Sede Bogotá","Vicerrectoría de Investigación","Dirección Nacional de Programas Curriculares de Posgrado","Oficina de Relaciones Exteriores","Oficina de Relaciones Exteriores","Dirección Nacional de Programas Curriculares de Pregrado","Dirección Nacional de Programas Curriculares de Pregrado","Dirección Nacional de personal académico y administrativo","Dirección Nacional de personal académico y administrativo","Dirección Nacional de personal académico y administrativo","Dirección Nacional de personal académico y administrativo","Dirección Nacional de personal académico y administrativo","Dirección Nacional de Planeación y Estadística","Dirección Nacional de Planeación y Estadística","Dirección Nacional de Planeación y Estadística","Dirección Nacional de Extensión, Innovación y Propiedad Intelectual","Dirección Nacional de Información Académica","Programa de egresados","Programa de egresados","Oficina Nacional de Bibliotecas","Dirección Jurídica Nacional","Editorial UN","Sistema Gestión Ambiental","Sistema Gestión Ambiental","Dirección Nacional de Programas Curriculares de Posgrado","Vicerrectoría General")
 codigo <- c("dna12:1", "dna12:3","dnbu16:1", "dnbu16:2", "dnbu16:3", "dnbu16:4", "unimedios19:1", "gnfa20:1", "gnfa20:2","gnfa20:3","gnfa20:4","gnfa20:5","gnfa20:6","gnfa20:8","vrg21:1","opb23:1","opb23:2","opb23:3","vri25:1","dnpr26:1","dre28:1","dre28:3","dnpcp32:1","dnpcp32:2","dnpa33:1","dnpa33:2","dnpa33:3","dnpa33:4","dnpa33:5","dnpe40:1","dnpe40:2","dnpe40:3","dne41:2","sia61:1","pe78:1","pe78:2","sinab79:1","djn83:1","editorial84:1","siga87:1","siga87:2","dnpr26:2","vrg21:2")
 tabla1 <- tibble(`Operación` = operacion, `Productor` = productor, `Código` = codigo  )
@@ -324,16 +324,16 @@ las diferentes dependencias o equipos de trabajo, necesarios para cumplir con su
 planes de acción y/o atender los requerimientos internos o externos.
 
 Se registró un total de 47 demandadas de información, en 36 de ellas se cuenta con el
-requerimiento que es suministrado directamente por parte de sus productores, la mayoría es
-producidas por dependencias o áreas internas, en 8 casos los productores son externos, las entidades son el ICFES, Bases bibliográficas WOS – SCOPUS, Colciencias, Ministerio de Educación,
-SIC y OMPI.
+requerimiento que es suministrado directamente por parte de sus productores, la mayoría son
+producidas por dependencias o áreas internas, en 8 casos los productores son externos, las entidades son el ICFES, bases bibliográficas WOS – SCOPUS, Colciencias, Ministerio de Educación,
+Superintendencia de Inductria y Comercio - SIC y la Organización Mundial de la Propiedad Intelectual - OMPI.
 
 En el caso de la información con la que no se cuenta, una de estas demandas es producida por el
-Ministerio de Educación, el Observatorio de la Educación Superior y OLE, en las otras 10 demandas
+Ministerio de Educación, el Observatorio de la Educación Superior y Observatorio Laboral de la Educación - OLE. En las otras 10 demandas
 se identificaron áreas o dependencias internas como sus productores.
 
-Para 39 demandas la información se pude obtener de forma gratuita, 3 la obtienen por convenio y
-otras 3 por solicitud, solo en un caso la información es comprada. En la demanda restante se
+Para 39 demandas, la información se pude obtener de forma gratuita, 3 la obtienen por convenio y
+otras 3 por solicitud; solo en un caso, la información es comprada. En la demanda restante se
 registró para esta pregunta un valor no válido como respuesta.
 
 ```{r, echo= FALSE, message=FALSE, warning=FALSE}
@@ -353,7 +353,7 @@ bar2 <- ggplot(bardata_2, aes(x=calificacion_2, y=valor_2, fill=factor(valor_2))
   ylim(0,100)+
   theme(legend.position = "none")+
   ylab("") + xlab("") 
-  #ggtitle("Forma de obtención de la información ")+
+  #ggtitle("Forma de obtención de la información (A) ")+
   #theme(plot.title = element_text(hjust = 0.5))
 ```
 
@@ -374,7 +374,7 @@ bar3 <- ggplot(bardata_3, aes(x=calificacion_3, y=valor_3, fill=factor(valor_3))
   ylim(0,100)+
   theme(legend.position = "none")+
   ylab("") + xlab("") 
-  #ggtitle("Medio de obtención de la información ")+
+  #ggtitle("Medio de obtención de la información (B)")+
   #theme(plot.title = element_text(hjust = 0.5))
 
 
@@ -387,7 +387,7 @@ plot_grid(bar2, bar3,
           ncol = 2, nrow = 1)
 ```
 
-El nivel de satisfacción de necesidades con información obtenida no es muy alto, apenas en el 43% que corresponde a 20 demandas la satisfacción es total, en el 36% que corresponde a 17 demandas la satisfacción es parcial, y mínima para el 13%. En los casos restantes no se tiene respuesta a esta pregunta.
+El nivel de satisfacción de necesidades con información obtenida no es muy alto, apenas en el 43% que, corresponde a 20 demandas, la satisfacción es total. En el 36%, que corresponde a 17 demandas, la satisfacción es parcial y mínima para el 13%. En los casos restantes no se tiene respuesta a esta pregunta.
 
 ```{r, echo= FALSE, message=FALSE, warning=FALSE}
 library(tidyr)  
@@ -437,8 +437,7 @@ ggplot(bardata_5, aes(x=calificacion_5, y=valor_5, fill=factor(valor_5))) +
 
 ```
 
-El principal uso de la información demandada es la producción de estadísticas, en segundo lugar
-está el diseño, la formulación y el seguimiento, y en tercer lugar está el análisis de contexto.
+El principal uso de la información demandada es la producción de estadísticas. En segundo lugar, el diseño, la formulación y el seguimiento a planes, programas o proyectos y, en tercer lugar, el análisis de contexto.
 
 ```{r, echo= FALSE, message=FALSE, warning=FALSE}
 library(tidyr)  
@@ -471,15 +470,15 @@ buena parte de la información estadística producida usa como fuente primaria d
 información consolidada mediante registros administrativos [^2], en ese sentido, cada dependencia
 adelantó en un formato estándar la documentación de las características técnicas de los registros
 que están bajo su responsabilidad, en total se identificaron y diligenciaron sesenta y nueve
-registros administrativos, los cuales para su consulta y potencial uso estadístico, fueron
+registros administrativos los cuales, para su consulta y potencial uso estadístico, fueron
 relacionados en una base de datos.
 
 [^2]:Un registro administrativo se define como todo registro resultante de necesidades fiscales, tributarias u otras, creado con la finalidad de viabilizar la administración de los programas de gobierno o para fiscalizar el
 cumplimento de obligaciones legales de la sociedad. Registros administrativos, calidad de los datos y
 credibilidad pública. Véase @echegoyen2004registros
 
-A los registros reportados por las dependencias se les aplico un proceso de revisión en tres
-criterios específicos: Completitud, Validez de contenido y Coherencia. Los resultados generales del
+A los registros reportados por las dependencias se les aplicó un proceso de revisión en tres
+criterios específicos: completitud, validez de contenido y coherencia. Los resultados generales del
 proceso se resumen en los siguientes gráficos.
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.cap='Completitud de las fichas de RRAA'}
@@ -552,7 +551,7 @@ ggplot(data_12, aes(x="", y=porcentaje_12, fill=item_12)) +
   #theme(plot.title = element_text(hjust = -0.5))
 ```
 
-Dentro de los problemas de coherencias más frecuentes se encontró la no correspondencia entre
+Dentro de los problemas de incoherencias más frecuentes se encontró la no correspondencia entre
 la descripción del registro administrativo y la unidad de observación relacionada.
 
 
@@ -561,18 +560,18 @@ la descripción del registro administrativo y la unidad de observación relacion
 Para la Universidad Nacional de Colombia se identificó una producción de 43 operaciones
 estadísticas y 69 registros administrativos, por otro lado, se reportó una demanda (satisfecha e
 insatisfecha) de 53 requerimientos de información estadística. El ejercicio de cruce de oferta
-demanda, consiste en establecer flujos de información, y en identificar que operaciones
+demanda, consiste en establecer flujos de información y en identificar qué operaciones
 estadísticas pueden ser fuente para suplir estas necesidades o demandas de información.
 
 **Flujos de información**
 
 De los 53 requerimientos de información, 43 están siendo satisfechos, total o parcialmente por las
-operaciones estadísticas reportadas en la oferta, o por alguna otra fuente de información. A continuación se presenta los flujos de información, indicando las áreas demandantes con los
+operaciones estadísticas reportadas en la oferta, o por alguna otra fuente de información. A continuación, se presenta los flujos de información indicando las áreas demandantes con los
 códigos de los requerimientos de información, y frente a ellos, el código de la operación
 estadística que satisface este requerimiento junto a su área productora, o el nombre del registro
 administrativo, esto en el caso de ser producidos por la Entidad y haber sido documentados
-dentro del inventario del Plan Estadístico, en caso contrario se indica el nombre de las entidades
-productoras, o de las otras fuentes que estén siendo utilizadas para tomar la información. En el
+dentro del inventario del Plan Estadístico. En caso contrario se indica el nombre de las entidades
+productoras o de las otras fuentes que estén siendo utilizadas para tomar la información. En el
 caso en el que los requerimientos no estén siendo satisfechos, el diagrama muestra el comentario:
 "No cuenta con la información".
 
@@ -588,8 +587,8 @@ knitr::include_graphics('Imagenes/ima3.png')
 ```
 
 La DNTIC presentó el requerimiento 17:1 *“Información del inventario semestral de activos tecnológicos de Hardware y software de la Universidad Nacional”* con el cual no cuenta, de
-acuerdo a la información documentadas, se considera que la operación 25:1 *“Indicadores del proceso de Adquisición de Bienes y Servicios”* de la GNFA, podría ser una fuente de información, y
-otra posible fuente seria el registro administrativo 42:1 *“Reporte de Información general técnica, administrativa y jurídica sobre los activos inmobiliarios de la Universidad en el Sistema SIGA (Gestión de bienes)”* también de esta área.
+acuerdo a la información documentadas, se considera que la operación 25:1 *“Indicadores del proceso de Adquisición de Bienes y Servicios”* de la GNFA, podría ser una fuente de información y,
+otra posible fuente, sería el registro administrativo 42:1 *“Reporte de Información general técnica, administrativa y jurídica sobre los activos inmobiliarios de la Universidad en el Sistema SIGA (Gestión de bienes)”* también de esta área.
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap= 'DNTIC'}
 knitr::include_graphics('Imagenes/ima4.png')
@@ -604,7 +603,7 @@ knitr::include_graphics('Imagenes/ima5.png')
 ```
 
 Para la DNPCP, la información suministrada para sus requerimientos: *“Registros académicos periódicos – SIA (31:1)”* y *“Registros académicos periódicos – DNA”* (31:3), satisfacen
-parcialmente sus necesidades de información, el motivo es que cada usuario no tiene un
+parcialmente sus necesidades de información. El motivo es que cada usuario no tiene un
 identificador entre las diferentes bases de datos, aunque estas son de la misma Universidad. Para
 sus otros tres requerimientos la satisfacción con la información suministrada es completa.
 
@@ -613,7 +612,7 @@ knitr::include_graphics('Imagenes/ima6.png')
 ```
 
 La VRI presenta ocho requerimientos de información, seis de ellos tienen un nivel parcial de
-satisfacción con la información que les es suministrada, estos son esos requerimientos junto con el motivo por el que no los satisface totalmente:
+satisfacción con la información que les es suministrada. A continuación, se describen estos requerimientos, así como sus motivos de insatisfacción.
 
 1. Base de datos de producción académica, personal docente, comisiones de estudio (35:1),
 motivo: La producción académica y el personal docente requiere ser clasificado por áreas
@@ -623,18 +622,18 @@ administrativo no se obtienen.
 2. Base de datos de producción académica WOS y SCOPUS (35:2), motivo: El registro de la
 información no es homogéneo, requiere depuración y normalización de datos.
 
-3. Información de movilidad y avales (35:4), motivo: El registro administrativo no se realiza
+3. Información de movilidad y avales (35:4), motivo: El registro administrativo no se suministra
 oportunamente por parte de las facultades.
 
 4. Base de datos de proyectos de investigación (35:5), motivo: Se requiere normalizar y
 clasificar datos.
 
 5. Información de convenios (35:6), motivo: Se requiere mayor información de cada
-convenio: Año de suscripción, fecha de inicio, fecha de terminación, país, nombre de la institución, objeto del convenio, sede que coordina, facultad que coordina, profesor que coordina, área de conocimiento, tipo de convenio.
+convenio: Año de suscripción, fecha de inicio, fecha de terminación, país, nombre de la institución, objeto del convenio, sede que coordina, facultad que coordina, profesor que coordina, área de conocimiento y tipo de convenio.
 
 6. Base de datos de grupos de investigación e investigadores (35:8), motivo: La información
 procede de una base de datos Oracle de la cual se deben extraer los datos, han codificado
-variables y no se tiene acceso a que corresponden los códigos.
+variables y no se tiene acceso a qué corresponden los códigos.
 
 ```{r, echo=FALSE, out.width='75%', fig.align='center', fig.cap='DNPR'}
 knitr::include_graphics('Imagenes/ima7.png')
@@ -740,7 +739,7 @@ satisfecho.
 
 En aras de vincular dentro del diagnóstico y mejoramiento de los procesos estadísticos la
 participación de los gestores y generadores de información en cada una de las dependencias
-vinculadas en la construcción del Plan Estadístico Institucional, se construyó y aplico un formato
+vinculadas en la construcción del Plan Estadístico Institucional, se construyó y aplicó un formato
 de encuesta semi -estructurada que buscaba indagar sobre aspectos que no se indagaron en los
 formatos de caracterización de ofertas y demandas de información estadística. Los resultados de
 la aplicación de dicho instrumento se consolidan en este apartado.
@@ -758,10 +757,10 @@ funcionarios tienen título de posgrado, 10 pregrado, un tecnólogo, y una perso
 secundaria.
 
 Tres funcionarios llevan a cargo de la información estadística menos de 6 meses, otros cinco, entre 6
-meses y un año, cuatro funcionarios, entre uno y tres años, nueve funcionarios, de tres a diez años, y cuatro funcionarios llevan más de diez años.
+meses y un año, cuatro funcionarios, entre uno y tres años, nueve funcionarios, de tres a diez años y cuatro funcionarios llevan más de diez años.
 
 En relación a las herramientas que utilizan para la construcción y visualización de la información
-estadística, 26 de los funcionarios utiliza Excel, 6 utilizan SQL, 4 Tablea, 3 SPSS y uno utiliza R. 4 de
+estadística, 26 de los funcionarios utiliza Excel, 6 utilizan SQL, 4 Tableau, 3 SPSS y uno utiliza R. 4 de
 los funcionarios reportaron utilizar otros programas.
 
 ***2. Percepción sobre el proceso estadístico y el manejo de información estadística:***
@@ -791,12 +790,12 @@ ggplot(bardata_7, aes(x=calificacion_7, y=valor_7, fill=factor(valor_7))) +
 
 De los 31 funcionarios entrevistados, 8 han recibido algún tipo de capacitación en gestión  de información estadística, los temas en los que se han capacitado son:
 
-  *	Business Intelligent Analytical
+  *	Business Intelligence Analytical
   * Formación en indicadores de gestión
   * Análisis de datos
   * Manejo de SAS
 
-Aún así, 27 de los entrevistados, que corresponden al 87%, consideran que es necesario mejorar las competencias en esta área,  23 de ellos identifican dificultades en este mismo asunto en las áreas o dependencias en las que laboran. Entre las capacitaciones solicitadas, mencionan: Manejo de software (12), producción de estadísticas en indicadores (5), Evaluación de calidad de la información estadística (4), Análisis de datos (3), Gestión de la información (3), Creación y procesamiento de bases de datos (3), Formulación de indicadores (3), Big data (2), Metodologías de análisis estadístico (2), Presentación de resultados estadísticos (2), Acceso a fuentes de información de la UNAL (1) y Business Intelligence (1).
+Aún así, 27 de los entrevistados, que corresponden al 87%, consideran que es necesario mejorar las competencias en esta área,  23 de ellos identifican dificultades en este mismo asunto en las áreas o dependencias en las que laboran. Entre las capacitaciones solicitadas, mencionan: Manejo de software (12), producción de estadísticas e indicadores (5), Evaluación de calidad de la información estadística (4), Análisis de datos (3), Gestión de la información (3), Creación y procesamiento de bases de datos (3), Formulación de indicadores (3), Big data (2), Metodologías de análisis estadístico (2), Presentación de resultados estadísticos (2), Acceso a fuentes de información de la UNAL (1) y Business Intelligence (1).
 
 ```{r, echo= FALSE, message=FALSE, warning=FALSE}
 library(tidyr)  
@@ -824,9 +823,9 @@ ggplot(bardata_8, aes(x=calificacion_8, y=valor_8, fill=factor(valor_8))) +
 ```
 
 Al analizar los recursos con los que se cuenta para el 
-manejo de información, se identifica por parte de los funcionarios que los principales inconvenientes, son que falta personal para atender las demandas de
-información, ya que solo 12 de los 31 consideran que el personal es suficiente, y de igual forma, 19 identifican dificultades para la entrega oportuna de información estadística, problema que puede estar
-relacionado con el anterior. En cuanto a equipos de cómputo no se observan muchos inconvenientes, 29 cuentan con equipos permanentes y 28 consideran que su equipo es adecuado para el manejo de información, 9 funcionarios reportaron que tienen restricciones de acceso a páginas web que consideran que son necesarias para la gestión de la información estadística que tienen a cargo.  
+manejo de información, se identifica por parte de los funcionarios que los principales inconvenientes son que falta personal para atender las demandas de
+información, ya que solo 12 de los 31 consideran que el personal es suficiente. De igual forma, 19 identifican dificultades para la entrega oportuna de información estadística, problema que puede estar
+relacionado con el anterior. En cuanto a equipos de cómputo no se observan muchos inconvenientes, 29 cuentan con equipos permanentes y 28 consideran que su equipo es adecuado para el manejo de información. Nueve (9) funcionarios reportaron que tienen restricciones de acceso a páginas web que consideran que son necesarias para la gestión de la información estadística que tienen a cargo.  
 
 ***3. Percepción sobre la producción estadística:***
 
@@ -855,11 +854,11 @@ ggplot(bardata_9, aes(x=calificacion_9, y=valor_9, fill=factor(valor_9))) +
 
 ```
 
-En relación al proceso estadístico desarrollado en las entidades del municipio, desde la perspectiva de los funcionarios, 25 consideran que la información se difunde a los usuarios que la requieren, aunque al preguntarles si consideran que se están atendiendo todos los requerimientos, solo 17 consideran que esto es así. 
+En relación al proceso estadístico desarrollado en las dependencias de la Universidad, desde la perspectiva de los funcionarios, 25 consideran que la información se difunde a los usuarios que la requieren, aunque al preguntarles si consideran que se están atendiendo todos los requerimientos, solo 17 consideran que esto es así. 
 
-En relación a controles de calidad, 20 mencionan que se realizan procedimientos para  verificar la calidad de la información recolectada y producida, y 25 dicen que se realiza verificación de los resultados obtenidos, aunque tan solo 8 reportan que se cuenta con metodología documentada. 18 mencionan que la información atiende las condiciones y tiempos definidos.
+En relación a controles de calidad, 20 mencionan que se realizan procedimientos para  verificar la calidad de la información recolectada y producida y 25 que se realiza verificación de los resultados obtenidos, aunque tan solo 8 reportan que se cuenta con metodología documentada. Dieciocho (18) mencionan que la información atiende las condiciones y tiempos definidos.
 
-**Cometarios y sugerencias adicionales de los funcionarios**
+**Comentarios y sugerencias adicionales de los funcionarios**
 
 Nueve de los funcionarios realizaron comentarios adicionales a lo indagado, la síntesis se presenta a continuación: 
 
@@ -876,32 +875,33 @@ Nueve de los funcionarios realizaron comentarios adicionales a lo indagado, la s
 
 * El manejo de la información estadística requiere de 
   un enfoque institucional para alinear a toda la 
-  dirección de la UN con sus dependencias adscritas en
+  dirección de la UNAL con sus dependencias adscritas en
   la forma en que se recolecta y organiza la
   información. 
   
-  NOTA: Es importante esta primera construcción no
+  NOTA: Es importante en la primera construcción no
   mezclar los indicadores de calidad con el tema de 
-  estadística.
+  estadísticas.
 
-* En este momento es importante poder acceder a la
+* Es importante poder acceder a la
   información estadística en línea, en tiempo real con
   actualización automática y bajo estándares
   entendibles y accesibles rápidamente.
   
 * Es necesario establecer los indicadores básicos lo
-  más pronto posible; o por lo menos una metodología  estandarizada y articulada     con las diferentes facultades, revisión de los que existe. Se debe establecer un papel más activo a cada una de las facultades, institutos y dependencias; tener en cuenta sus necesidades básicas de información.
+  más pronto posible; o por lo menos una metodología  estandarizada y articulada
+  con las diferentes facultades, revisión de los que existe. Se debe establecer   un papel más activo a cada una de las facultades, institutos y dependencias;    tener en cuenta sus necesidades básicas de información.
   
 * Las bases de datos que están almacenadas muchas veces
   no son compatibles con las sedes o no se comparte con
-  las UNIDADES ADMINISTRATIVAS y se genera duplicidad
-  de datos en las bases de la U.
+  las unidades administrativas y se genera duplicidad
+  de datos en las bases de la Universidad.
   
 * Se requiere que sean muy puntuales para aplicar los
   lineamientos y métodos para la aplicación de la
   información.
   
-* Sería importante desde la DNP establecer lineamientos
+* Sería importante desde la DNPE establecer lineamientos
   estandarizados para trabajar la planeación 
   estratégica y operativa, así como para la
   documentación y evaluación de indicadores.

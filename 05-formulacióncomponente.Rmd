@@ -1,6 +1,6 @@
 # Formulación del componente estratégico del Plan Estadístico 
 
-En esta apartado se consolidan las propuestas de corto, mediano y largo plazo, que surgen como resultado de  los hallazgos obtenidos del diagnóstico de la información estadística disponible, de la consolidación de requerimientos de información o  demandas insatisfechas de información  y a las necesidades explicitas de funcionarios responsables del manejo de información estadística en sus áreas respectivas.
+En esta apartado se consolidan las propuestas de corto, mediano y largo plazo, que surgen como resultado de  los hallazgos obtenidos del diagnóstico de la información estadística disponible, de la consolidación de requerimientos de información o  demandas insatisfechas de información  y de las necesidades explicitas de funcionarios responsables del manejo de información estadística en sus áreas respectivas.
 
 El conjunto de acciones y recomendaciones orientadas hacia el mejoramiento de los procesos estadísticos internos  se circunscriben en el siguiente Plan de Acción.
 
@@ -13,7 +13,7 @@ Dentro de la consolidación de este conjunto de acciones y recomendaciones se co
 
 ### Lineamientos orientadores
 
-* **Lineamiento N°1:** Concreción del concepto de valor público en la construcción de estadísticas institucionales, se refiere a propender  que la generación de estadísticas permita adelantar  la evaluación y seguimiento a los resultados institucionales alcanzados (medibles) para dar respuesta a las necesidades o demandas sociales, resultados asociados a los cambios sociales producidos por la acción institucional  y por las actividades y productos entregados por las diferentes dependencias de la Universidad Nacional (BID, 2015). Puntualmente haciendo de la  información un elemento articulador de las dimensiones del Modelo Integrado de Planeación y Gestión, en la medida que le permiten a la vinculación de la institución y su entorno y le facilita la ejecución de sus operaciones internas. Se hace énfasis en el enfoque transversal de la Información y la comunicación frente a los demás componentes del Modelo, pues permite ampliar y profundizar en el uso y aprovechamiento de la información para los procesos internos de la entidad (toma de decisiones, elaboración de política pública, entre otros), así como la interacción con la comunidad (grupos de valor y grupos de interés).
+* **Lineamiento N°1:** Concreción del concepto de valor público en la construcción de estadísticas institucionales. Se refiere a propender  que la generación de estadísticas permita adelantar  la evaluación y seguimiento a los resultados institucionales alcanzados (medibles) para dar respuesta a las necesidades o demandas sociales, resultados asociados a los cambios sociales producidos por la acción institucional  y por las actividades y productos entregados por las diferentes dependencias de la Universidad Nacional (BID, 2015). Puntualmente haciendo de la  información un elemento articulador de las dimensiones del Modelo Integrado de Planeación y Gestión, en la medida que le permiten a la vinculación de la institución y su entorno y le facilita la ejecución de sus operaciones internas. Se hace énfasis en el enfoque transversal de la Información y la comunicación frente a los demás componentes del Modelo, pues permite ampliar y profundizar en el uso y aprovechamiento de la información para los procesos internos de la Universidad (toma de decisiones, elaboración de política pública, entre otros), así como la interacción con la comunidad (grupos de valor y grupos de interés).
 
 * **Lineamiento N°2:** Reconocimiento del valor estratégico de la información y promoción del  aprovechamiento de datos, mediante el desarrollo de las condiciones para que los datos generados por diferentes fuentes,  sean gestionados como activos que pueden  generar valor social y económico en cuanto permiten  brindar respuestas efectivas y útiles frente a las necesidades de los diferentes actores institucionales.
 
@@ -52,7 +52,7 @@ La matriz de intervención es un recurso creado para organizar de manera coheren
   todas las componentes de la actividad estadística
   simultáneamente.
 
-* **Aspecto susceptible de mejora:** Este componente de la matriz de acción describe el conjunto de hallazgos y elementos que requieren atención en términos de fortalecimiento estadístico. Sintetiza las dificultades u oportunidades de mejora, identificadas con la revisión y análisis de información adelantado en el desarrollo del proyecto, en otros términos, referencia los errores recurrentes en la producción, consolidación, procesamiento y  análisis de información estadística  o que demuestran desconocimiento; además se incluyen los aportes, recomendaciones o solicitudes explicitas consolidadas mediante encuestas y entrevistas con los funcionarios y que evidencian necesidades en materia de producción o gestión de la información estadística en la universidad. 
+* **Aspecto susceptible de mejora:** Este componente de la matriz de acción describe el conjunto de hallazgos y elementos que requieren atención en términos de fortalecimiento estadístico. Sintetiza las dificultades u oportunidades de mejora, identificadas con la revisión y análisis de información adelantado en el desarrollo del proyecto, en otros términos, referencia los errores recurrentes en la producción, consolidación, procesamiento y  análisis de información estadística  o que demuestran desconocimiento; además se incluyen los aportes, recomendaciones o solicitudes explicitas consolidadas mediante encuestas y entrevistas con los funcionarios y que evidencian necesidades en materia de producción o gestión de la información estadística en la Universidad. 
 
 * **Estrategia:** Se refiere a las líneas generales de Intervención que buscan mejorar la gestión, producción, análisis  y difusión de información estadística de carácter estratégico y que abren paso a una sucesión de acciones que tienen como propósito la consecución de un determinado objetivo.
 
@@ -62,11 +62,11 @@ La matriz de intervención es un recurso creado para organizar de manera coheren
 
 * **Indicador:** En este contexto se refiere a la unidad que permite medir o comparar los resultados efectivamente obtenidos, en la ejecución de cada una de las acciones propuestas en el plan de acción. Permite conocer un “valor” de comparación referido a cada META asociada.
 
-* **Responsable:** Es un componente esencial de la matriz en la medida que se define quien o quienes son los responsables de promover, socializar, implementar y hacer seguimiento de cada una de las acciones de fortalecimiento estadístico propuestas en el Plan de Acción.
+* **Responsable:** Es un componente esencial de la matriz en la medida que se define quién o quiénes son los responsables de promover, socializar, implementar y hacer seguimiento de cada una de las acciones de fortalecimiento estadístico propuestas en el Plan de Acción.
 
 * **Tiempo requerido:** Es una dimensión esencial en un Plan de Acción, y en este caso se refiere al periodo definido para la implementación de cada una de las acciones propuestas. 
 
-* **Ámbitos:** Hace referencia al alcance de la intervención o de la acción institucional, en este componente se identifica específicamente  el actor objeto de intervención, es decir, hacia quien debe orientarse las acciones de fortalecimiento estadístico. En ese sentido, se delimitan las acciones enfocadas hacia el individuo, es decir, aquellas que consideran al funcionario como la unidad de intervención e implementación de la acción propuesta; por otro lado, se organizan las acciones que tienen como objeto de intervención cada una de las dependencias que conforman el nivel central de la Universidad Nacional  y que tienen en su haber la producción o utilización de información estadística estratégica; finalmente se conforma un conjunto con las acciones de mejora de carácter general para la Universidad, es decir, aquellas acciones que implican cambios o ajustes a nivel global para garantizar o mejorar la producción estadística en condiciones de calidad, oportunidad y confiabilidad.
+* **Ámbitos:** Hace referencia al alcance de la intervención o de la acción institucional, en este componente se identifica específicamente  el actor objeto de intervención, es decir, hacia quién debe orientarse las acciones de fortalecimiento estadístico. En ese sentido, se delimitan las acciones enfocadas hacia el individuo, es decir, aquellas que consideran al funcionario como la unidad de intervención e implementación de la acción propuesta. Por otro lado, se organizan las acciones que tienen como objeto de intervención cada una de las dependencias que conforman el nivel central de la Universidad Nacional  y que tienen en su haber la producción o utilización de información estadística Estratégica. Finalmente, se conforma un conjunto con las acciones de mejora de carácter general para la Universidad, es decir, aquellas acciones que implican cambios o ajustes a nivel global para garantizar o mejorar la producción estadística en condiciones de calidad, oportunidad y confiabilidad.
 
 * **Priorización:** De acuerdo con la magnitud de la recomendación y la disponibilidad de recursos para asumir su implementación es necesario establecer un orden jerárquico a las acciones propuestas, se propone entonces la siguiente calificación:  alta si el nivel de atención e implementación es imperativo, media si las acciones se pueden implementar de manera progresiva y baja si es posible postergar en alguna medida su implementación o si la no implementación no afecta de manera significativa el proceso de fortalecimiento estadístico.
 
@@ -81,7 +81,7 @@ La matriz de intervención es un recurso creado para organizar de manera coheren
 knitr::include_graphics('Imagenes/diagrama.png')
 ```
 
-Este modelo requiere como complemento a la formulación de las acciones propuestas, la  socialización, validación y aprobación por parte de los responsables de los procesos, con lo cual se busca que los funcionarios delegados de las dependencias y el equipo técnico del proyecto, acuerden para cada acción propuesta los siguientes elementos: metas, tiempo y recursos requeridos para su implementación, responsables en el desarrollo e implementación de las acciones y se define el nivel de importancia o prioridad que se asignaría a cada una. 
+Este modelo requiere como complemento a la formulación de las acciones propuestas, la  socialización, validación y aprobación por parte de los responsables de los procesos, con lo cual se busca que los funcionarios delegados de las dependencias y el equipo técnico del proyecto, acuerden para cada acción propuestas a los siguientes elementos: metas, tiempo y recursos requeridos para su implementación, responsables en el desarrollo e implementación de las acciones y se define el nivel de importancia o prioridad que se asignaría a cada una. 
 
 Con esta estructura se busca facilitar la comprensión y operacionalización del conjunto de recomendaciones, sugerencias y acciones contenidas en este documento, además, ofrece la posibilidad de  ordenar y priorizar acciones  de acuerdo a las demandas más relevantes en sus procesos de producción y gestión de información estadística.
 
@@ -95,7 +95,7 @@ La Planificación Estadística es un proceso técnico, dinámico y permanente qu
 
 [^3]:@BibEntry2021May
 
-Para el caso particular de la Universidad, la planificación estadística establece el conjunto de procesos necesarios que permiten:  Conocer, diagnosticar y organizar la actividad estadística y establecer lineamientos para su fortalecimiento; Identificar y priorizar la información estadística requerida para la formulación y el diseño de políticas, planes, proyectos;  Determinar las necesidades de información estadística y desarrollar un plan para resolver las necesidades y limitaciones de información;  Contribuir  al uso eficiente de los recursos financieros, tecnológicos y humanos dirigidos hacia la actividad estadística; Facilitar  la toma de decisiones, el seguimiento, monitoreo y evaluación de las políticas, planes y programas institucionales;  Facilitar la articulación entre productores y usuarios fortaleciendo su comunicación y coordinación en cuanto a la producción y el manejo de la información estadística.
+Para el caso particular de la Universidad, la planificación estadística establece el conjunto de procesos necesarios que permiten:  Conocer, diagnosticar y organizar la actividad estadística y establecer lineamientos para su fortalecimiento; identificar y priorizar la información estadística requerida para la formulación y el diseño de políticas, planes, proyectos;  determinar las necesidades de información estadística y desarrollar un plan para resolver las necesidades y limitaciones de información;  contribuir  al uso eficiente de los recursos financieros, tecnológicos y humanos dirigidos hacia la actividad estadística; facilitar  la toma de decisiones, el seguimiento, monitoreo y evaluación de las políticas, planes y programas institucionales;  facilitar la articulación entre productores y usuarios fortaleciendo su comunicación y coordinación en cuanto a la producción y el manejo de la información estadística.
 
 En ese sentido el objetivo de las acciones planteadas en este apartado, es: “Promover la definición, organización, priorización y producción de estadísticas institucionales requeridas para la toma de decisiones”.
 
@@ -204,9 +204,9 @@ En este apartado se presentan de manera sintética  los elementos generales cons
 
     *	*Acción 2.* Orientar a las dependencias de la Universidad Nacional en las actividades y procesos requeridos para la generación de estadísticas por censos, por muestreo probabilístico o no probabilístico, o a partir de registros administrativos de acuerdo a los lineamientos y estándares definidos.
 
-    *	*Acción 3.* Adoptar los lineamientos conceptuales y metodológicos estandarizada para la generación de información estadística institucional. 
+    *	*Acción 3.* Adoptar los lineamientos conceptuales y metodológicos estandarizados para la generación de información estadística institucional. 
 
-    *	*Acción 4.* Adoptar mecanismos adecuados para difusión de las estadísticas e indicadores generados.
+    *	*Acción 4.* Adoptar mecanismos adecuados para la difusión de las estadísticas e indicadores generados.
 
     *	*Acción 5.* Implementar procesos estandarizados de almacenamiento y procesamiento de la información estadística de interés estratégico para la Universidad.
 
@@ -228,7 +228,7 @@ En este apartado se presentan de manera sintética  los elementos generales cons
 
     *	*Acción 4.* Evaluar la pertinencia de la información estadística generada, establecer el grado en que la información sirve para hacer frente a los propósitos para los cuales los usuarios (demandantes) buscan esta información.
 
-    *	*Acción 5.* Garantizar Accesibilidad a la información producida por las operaciones estadísticas. La accesibilidad se entiende como la facilidad con la que los usuarios pueden ubicar y acceder a los resultados de una operación estadística. Este atributo de la calidad estadística también se relaciona con la forma en que éstos se suministran y los medios de difusión utilizados.
+    *	*Acción 5.* Garantizar accesibilidad a la información producida por las operaciones estadísticas. La accesibilidad se entiende como la facilidad con la que los usuarios pueden ubicar y acceder a los resultados de una operación estadística. Este atributo de la calidad estadística también se relaciona con la forma en que éstos se suministran y los medios de difusión utilizados.
 
   * **Estrategia 4.** Fortalecimiento de las capacidades para gestión de información estadística Institucional (énfasis en uso de tecnologías, disposición de recursos y competencias.
 
@@ -290,19 +290,19 @@ En este apartado se presentan de manera sintética  los elementos generales cons
 
 ### Fortalecimiento de registros administrativos - RRAA
 
-En este capítulo se consolida un conjunto de recomendaciones y acciones esenciales en la generación de información estadística en la UN, dado que se refieren específicamente a la principal fuente de información usada en las operaciones estadísticas documentadas como son los registros administrativos, específicamente en este capítulo se consolidan y proponen una serie de etapas y acciones orientadas hacia el fortalecimiento y aprovechamiento  de los registros administrativos con potencial estadístico.
+En este capítulo se consolida un conjunto de recomendaciones y acciones esenciales en la generación de información estadística en la UNAL, dado que se refieren específicamente a la principal fuente de información usada en las operaciones estadísticas documentadas como son los registros administrativos.Específicamente en este capítulo se consolidan y proponen una serie de etapas y acciones orientadas hacia el fortalecimiento y aprovechamiento  de los registros administrativos con potencial estadístico.
 
 El alcance de esta primera etapa,  se limita  a la verificación de requisitos mínimos de cumplimiento en términos de documentación técnica y metodológica,  que permita identificar y filtrar del total de registros reportados por las dependencias aquellos  que pueden ser objeto de fortalecimiento, es decir, la inclusión de lineamientos técnicos, para alcanzar una producción de calidad y un mejor aprovechamiento de la información estadística disponible.
 
 El presente capítulo recopila un conjunto de observaciones generadas de un proceso de revisión del inventario de registros administrativos consolidado y se  destacan los elementos generales de documentación y aspectos susceptibles de mejora por parte de la dependencia encargada, las observaciones derivadas de este proceso permiten un mejor uso y aprovechamiento de la información que consolidan.  
 
-Los registros administrativos sobre los cuales se enfoca el proyecto,  deben estar orientados hacia el cumplimiento de la misionalidad institucional, en tal sentido, no se tuvieron en cuenta dentro de la revisión y análisis RRAA con un enfoque distinto, por ejemplo: registros construidos con el propósito de hacer seguimiento a la gestión interna de cada dependencia o que permiten solamente la verificación de cumplimiento de procesos exclusivos del área; Tampoco se incluyeron en el análisis RRAA consolidados por entidades del orden nacional.
+Los registros administrativos sobre los cuales se enfoca el proyecto,  deben estar orientados hacia el cumplimiento de la misionalidad institucional, en tal sentido, no se tuvieron en cuenta dentro de la revisión y análisis RRAA con un enfoque distinto. Por ejemplo, registros construidos con el propósito de hacer seguimiento a la gestión interna de cada dependencia o que permiten solamente la verificación de cumplimiento de procesos exclusivos del área; tampoco se incluyeron en el análisis RRAA consolidados por entidades del orden nacional.
 
 En ese sentido, dentro de los aspectos observados en los registros administrativos caracterizados en el marco del proyecto de formulación del Plan Estadístico se incluyeron los siguientes criterios:
 
 * **Producción propia**
 
-En este criterio se verifico si es la Universidad la que produce el RRAA, es decir, verificar si es una iniciativa institucional: consolidar, almacenar y reportar la información del RRAA o si por el contrario es un requerimiento hacer el reporte en bases de datos de entidades nacionales.
+En este criterio se verificó si es la Universidad la que produce el RRAA, es decir, verificar si es una iniciativa institucional: consolidar, almacenar y reportar la información del RRAA o si por el contrario es un requerimiento hacer el reporte en bases de datos de entidades nacionales.
 
 * **Completitud de la ficha del RRAA**
 
@@ -314,13 +314,13 @@ Se verifica si la respuesta consignada en cada campo de la ficha del RRAA guarda
 
 * **Uso estadístico** 
 
-Uno de los elementos esenciales para verificar el potencial estadístico de los RRAA se refiere al uso potencial de la información recopilada en registro como insumo para la generación de estadísticas institucionales, en ese sentido, el criterio califica la usabilidad de la información consolidada para la construcción de indicadores y/o  estadísticas agregadas.
+Uno de los elementos esenciales para verificar el potencial estadístico de los RRAA se refiere al uso potencial de la información recopilada en estos como insumo para la generación de estadísticas institucionales, en ese sentido, el criterio califica la usabilidad de la información consolidada para la construcción de indicadores y/o  estadísticas agregadas.
 
 ## Recomendaciones generales 
 
-En algunas dependencias se evidencia poca claridad frente al responsable de consolidar la información recopilada por el registro administrativo. Para que exista un manejo confiable de la información estadística producida en cada dependencia, es necesario definir con claridad sobre quien recae la responsabilidad del manejo de la información, para que sea el responsable del reporte, actualización y seguimiento de la misma. 
+En algunas dependencias se evidencia poca claridad frente al responsable de consolidar la información recopilada por el registro administrativo. Para que exista un manejo confiable de la información estadística producida en cada dependencia, es necesario definir con claridad sobre quién recae la responsabilidad del manejo de la información, para que sea el responsable del reporte, actualización y seguimiento de la misma. 
 
-En algunos registros administrativos no se identifica demandante o usuario de la información consolidada, ante lo cual es pertinente identificar plenamente quien o que dependencia o área requiere de la información consolidada por el registro administrativo para la definición o seguimiento de las políticas, planes, programas y proyectos que se definen para la Universidad. Es allí donde se considera relevante que exista una articulación entre la información producida por cada entidad acorde al cumplimiento de sus funciones misionales y la demandada por otras para el desarrollo de sus compromisos.
+En algunos registros administrativos no se identifica demandante o usuario de la información consolidada, ante lo cual es pertinente identificar plenamente quién o qué dependencia o área requiere de la información consolidada por el registro administrativo para la definición o seguimiento de las políticas, planes, programas y proyectos que se definen para la Universidad. Es allí donde se considera relevante que exista una articulación entre la información producida por cada dependencia acorde al cumplimiento de sus funciones misionales y la demandada por otras para el desarrollo de sus compromisos.
 
 A partir del ejercicio de recolección, caracterización y revisión de los registros administrativos generados, se derivan algunas recomendaciones a tener en cuenta para la producción y consolidación de la información  de los mismos.
 

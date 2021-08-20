@@ -1,6 +1,6 @@
 # Plan de acción 
 
-### *Líneas Estratégicas I:* Lineamientos conceptuales y metodológicos
+### *Línea Estratégica I:* Lineamientos conceptuales y metodológicos
 
 * *Objetivo específico 1:*
 
@@ -71,7 +71,7 @@
   
   * *Acción 4:*
   
-    Desarrollar in **documento metodológico para la evaluación** de planes y proyectos institucionales.
+    Desarrollar un **documento metodológico** para la evaluación de planes y proyectos institucionales.
   
   
 ### *Línea Estratégica II:* Producción estadística
@@ -160,7 +160,7 @@
     
       *Acciones nivel 2:*
     
-      * Reglamentar la política de habbeas data en los aspectos que atañen a la información utilizada para la producción de estadísticas estratégicas institucionales.
+      * Reglamentar la política de Habbeas Data en los aspectos que atañen a la información utilizada para la producción de estadísticas estratégicas institucionales.
       * Adecuar los recursos y el soporte normativo en aras de  garantizar la producción continua de las operaciones estadísticas estratégicas institucionales.
 
   * *Acción 3:*
@@ -225,7 +225,7 @@
       
       * *Comentarios:*
       
-        Una de las estrategias puede ser difundir estadísticas relevantes de la Universidad a través de twiter (Trabajar este punto con Unimedios).
+        Una de las estrategias puede ser difundir estadísticas relevantes de la Universidad a través de Twitter (trabajar este punto con Unimedios).
 
 
 * *Objetivo específico 2:*
@@ -238,7 +238,7 @@
     
     * *Comentarios:*
     
-      Dentro de estos mecanismos se encuentran la rendición de cuentas, los informes de gestión, el plan global de desarrollo y los planes de acción, la acreditación institucional, entre otros.
+      Dentro de estos mecanismos se encuentran la rendición de cuentas, los informes de gestión, el Plan Global de Desarrollo y los planes de acción, la Acreditación Institucional, entre otros.
       
         * *Acción nivel 2:*
         
@@ -258,7 +258,7 @@
     
     * *Comentarios:*
     
-      Dentro de los mecanismos se encuentran la revista de estadísticas e indicadores, la página web. 
+      Dentro de los mecanismos se encuentran la revista de estadísticas e indicadores, las páginas web. 
       
       
       
