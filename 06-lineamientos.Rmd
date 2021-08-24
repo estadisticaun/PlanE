@@ -1,4 +1,4 @@
-# Plan de acción 
+# Plan de acción {#Cap6} 
 
 ### *Línea Estratégica I:* Lineamientos conceptuales y metodológicos
 
@@ -177,35 +177,34 @@
         * Establecer el **alcance, los  recursos requeridos y la metodología** que permitan analizar la factibilidad de la implementación de la agenda de evaluación.
         
 
-* *Objetivo específico 3:* 
+### *Línea Estratégica III:* Gestión de las capacidades técnicas y tecnológicas. 
+
+* *Objetivo específico 1:* 
   
-  Fortalecer las **capacidades** para la **GESTIÓN DE LA INFORMACIÓN estadística institucional** (énfasis en uso de tecnologías, disposición de recursos y competencias).
+  Fortalecer las **capacidades** técnicas y tecnológicas para la **GESTIÓN DE LA INFORMACIÓN estadística institucional** (disposición de *hardware* y adquisisicón y dominio de *software*).  
   
   * *Acción 1:*
       
-    **Adoptar tecnologías y plataformas adecuadas** para la captura, producción, procesamiento, análisis y difusión de información estadística estratégica.
+    **Definir, adquirir, adaptar y configurar** las tecnologías y plataformas a nivel de **hardware** para la captura, producción, procesamiento, análisis y difusión de información estadística estratégica.
 
-    * *Comentarios:*
-      
-      Responsabilidad del grupo de tecnología. ¿Esto se tocará en el proyecto de información?
-      
   * *Acción 2:*
     
-    Establecer las **competencias mínimas requeridas** para la gestión de información estadística.
+    **Definir, adquirir y dominar los softwares** requeridos a nivel institucional para la captura, producción, procesamiento, análisis y difusión de información estadística estratégica.
     
   * *Acción 3:*
   
-    Definir e implementar un **plan de formación que fortalezca en los funcionarios** las competencias mínimas requeridas en los procesos de consolidación, procesamiento, análisis y difusión de información estadística institucional.
+  Establecer las **competencias mínimas requeridas** a nivel **técnico y tecnológico** para la gestión de información estadística. 
+  
+  * *Acción 4:*
+  
+    Definir e implementar un **plan de formación que fortalezca en los funcionarios** las competencias mínimas requeridas, especialmente a nivel técnico y tecnológico, en los procesos de consolidación, procesamiento, análisis y difusión de información estadística institucional.
     
       * *Comentarios:*
       
         El plan de formación se puede abordar desde los proyectos de gestión de la información y SIGA.
 
-  * *Acción 4:*
-  
-    Identificar e implementar **buenas prácticas estadísticas** para la gestión de la información estadística institucional.
-        
-### *Línea Estratégica III:* Cultura estadística
+
+### *Línea Estratégica IV:* Cultura estadística
 
 * *Objetivo específico 1:* 
 

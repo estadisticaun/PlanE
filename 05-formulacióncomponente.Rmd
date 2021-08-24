@@ -166,182 +166,176 @@ En este eje se incluyen los elementos relacionados  con las prácticas cotidiana
 
 ### Síntesis de la matriz de intervención
 
-En este apartado se presentan de manera sintética  los elementos generales consignados en la matriz de intervención.
+En este apartado se presentan de manera sintética  las líneas estratégicas, así como los objetivos del Plan Estadístico Institucional las cuales se desarrollarán de manera precisa en el [Capítulo 6](#Cap6).
 
-* **Línea estratégica 1:** Establecer lineamientos conceptuales y metodológicos que orienten la actividad estadística en la Universidad Nacional de Colombia.
+* **Línea estratégica 1:** LINEAMIENTOS CONCEPTUALES Y METODOLÓGICOS
 
-  * **Estrategia 1.**  Definir los lineamientos del proceso estadístico para la generación de estadísticas institucionales
+  * **Objetivo 1.**  Producir los lineamientos conceptuales que orienten la actividad estadística en la Universidad.
 
-    * *Acción 1.* Definir el marco conceptual para 
-    indicadores y estadísticas institucionales.
+  * **Objetivo 2.**  Establecer los instrumentos metodológicos que apoyen el desarrollo de la actividad estadística en la Universidad. 
+
+* **Línea estratégica 2:** PRODUCCIÓN ESTADÍSTICA
+
+  * **Objetivo 1.**   Establecer y adoptar los lineamientos del proceso estadístico para la generación de estadísticas estratégicas institucionales.
   
-    * *Acción 2.* Definir criterios e instrumentos de
-    planificación estadística en la priorización de
-    estadísticas e indicadores institucionales.
-  
-    * *Acción 3.* Definir mecanismos adecuados para
-    difusión de las estadísticas e indicadores
-    institucionales.
+    * **Objetivo 2.**   Fortalecer la gestión estadística institucional
     
-    * *Acción 4.* Definir procesos estandarizados de
-    almacenamiento y procesamiento de la información
-    estadística de interés estratégico para la
-    Universidad.
+* **Línea estratégica 3:** GESTIÓN DE LAS CAPACIDADES TÉCNICAS Y TECNOLÓGICAS PARA LA PRODUCCIÓN ESTADÍSTICA 
 
-  * **Estrategia 2.** Establecer los estándares y nomenclaturas para el desarrollo de la actividad estadística institucional.
+  * **Objetivo 1.**  Fortalecer las capacidades técnicas y tecnológicas para la gestión de la información estadística institucional (disposición de hardware y adquisisicón y dominio de software).
 
-    *	*Acción 1.* Definir los estándares y nomenclaturas propios para la actividad estadística institucional.
+* **Línea estratégica 4:** CULTURA ESTADÍSTICA
 
-  * **Estrategia 3.**  Definir lineamientos para el uso de información estadística para seguimiento, monitoreo y evaluación de Planes y Políticas.
+  * **Objetivo 1.**  Promover la difusión y conocimiento de la información estadística estratégica institucional.  
 
-    * *Acción 1.* Proponer un modelo soportado en indicadores para seguimiento, monitoreo y evaluación de políticas, planes  y proyectos institucionales.
+  * **Objetivo 2.**  Promover el uso y aprovechamiento de los datos, estadísticas e indicadores como activo estratégico institucional.  
 
-* **Línea estratégica 2:** Fortalecer los procesos estadísticos para la generación de estadísticas e indicadores de la Universidad Nacional. En esta línea se definen y adaptan los elementos básicos de  Planificación, Calidad y Regulación estadística. 
 
-  * **Estrategia 1.** Adoptar los lineamientos del proceso estadístico para la generación de estadísticas institucionales.
 
-    * *Acción 1.* Implementar mecanismos e instrumentos que faciliten la disposición, organización, almacenamiento, estandarización y control de la información estadística Institucional.
+<!--   * **Estrategia 1.** Adoptar los lineamientos del proceso estadístico para la generación de estadísticas institucionales. -->
 
-    *	*Acción 2.* Orientar a las dependencias de la Universidad Nacional en las actividades y procesos requeridos para la generación de estadísticas por censos, por muestreo probabilístico o no probabilístico, o a partir de registros administrativos de acuerdo a los lineamientos y estándares definidos.
+<!--     * *Acción 1.* Implementar mecanismos e instrumentos que faciliten la disposición, organización, almacenamiento, estandarización y control de la información estadística Institucional. -->
 
-    *	*Acción 3.* Adoptar los lineamientos conceptuales y metodológicos estandarizados para la generación de información estadística institucional. 
+<!--     *	*Acción 2.* Orientar a las dependencias de la Universidad Nacional en las actividades y procesos requeridos para la generación de estadísticas por censos, por muestreo probabilístico o no probabilístico, o a partir de registros administrativos de acuerdo a los lineamientos y estándares definidos. -->
 
-    *	*Acción 4.* Adoptar mecanismos adecuados para la difusión de las estadísticas e indicadores generados.
+<!--     *	*Acción 3.* Adoptar los lineamientos conceptuales y metodológicos estandarizados para la generación de información estadística institucional.  -->
 
-    *	*Acción 5.* Implementar procesos estandarizados de almacenamiento y procesamiento de la información estadística de interés estratégico para la Universidad.
+<!--     *	*Acción 4.* Adoptar mecanismos adecuados para la difusión de las estadísticas e indicadores generados. -->
 
-  * **Estrategia 2.**  Mejoramiento de los procesos de planeación  estadística (¿qué?, ¿quién?, ¿dónde?, ¿cuándo?, ¿por qué?).
+<!--     *	*Acción 5.* Implementar procesos estandarizados de almacenamiento y procesamiento de la información estadística de interés estratégico para la Universidad. -->
 
-    *	*Acción 1.* Definición, socialización e implementación de las etapas del proceso estadístico para la generación de estadísticas e indicadores institucionales.
+<!--   * **Estrategia 2.**  Mejoramiento de los procesos de planeación  estadística (¿qué?, ¿quién?, ¿dónde?, ¿cuándo?, ¿por qué?). -->
 
-    *	*Acción 2.* Garantizar la continuidad, periodicidad y acceso oportuno a la producción estadística estratégica. 
+<!--     *	*Acción 1.* Definición, socialización e implementación de las etapas del proceso estadístico para la generación de estadísticas e indicadores institucionales. -->
 
-    *	*Acción 3.* Adoptar criterios de planificación estadística en la priorización de estadísticas e indicadores institucionales.
+<!--     *	*Acción 2.* Garantizar la continuidad, periodicidad y acceso oportuno a la producción estadística estratégica.  -->
 
-  * **Estrategia 3.**  Mejoramiento continuo de la calidad de los procesos de producción de información estadística estratégica institucional (¿cómo?).
+<!--     *	*Acción 3.* Adoptar criterios de planificación estadística en la priorización de estadísticas e indicadores institucionales. -->
 
-    *	*Acción 1.* Adelantar la documentación técnica de operaciones estadísticas e indicadores generados por las diferentes dependencias de la Universidad Nacional.
+<!--   * **Estrategia 3.**  Mejoramiento continuo de la calidad de los procesos de producción de información estadística estratégica institucional (¿cómo?). -->
 
-    *	*Acción 2.* Adoptar criterios de calidad estadística en la producción, análisis, interpretación, seguimiento y difusión de la información.
+<!--     *	*Acción 1.* Adelantar la documentación técnica de operaciones estadísticas e indicadores generados por las diferentes dependencias de la Universidad Nacional. -->
 
-    *	*Acción 3.*  Adecuar  los recursos y el  soporte normativo  en aras de  garantizar la producción continua de las operación estadísticas estratégicas.
+<!--     *	*Acción 2.* Adoptar criterios de calidad estadística en la producción, análisis, interpretación, seguimiento y difusión de la información. -->
 
-    *	*Acción 4.* Evaluar la pertinencia de la información estadística generada, establecer el grado en que la información sirve para hacer frente a los propósitos para los cuales los usuarios (demandantes) buscan esta información.
+<!--     *	*Acción 3.*  Adecuar  los recursos y el  soporte normativo  en aras de  garantizar la producción continua de las operación estadísticas estratégicas. -->
 
-    *	*Acción 5.* Garantizar accesibilidad a la información producida por las operaciones estadísticas. La accesibilidad se entiende como la facilidad con la que los usuarios pueden ubicar y acceder a los resultados de una operación estadística. Este atributo de la calidad estadística también se relaciona con la forma en que éstos se suministran y los medios de difusión utilizados.
+<!--     *	*Acción 4.* Evaluar la pertinencia de la información estadística generada, establecer el grado en que la información sirve para hacer frente a los propósitos para los cuales los usuarios (demandantes) buscan esta información. -->
 
-  * **Estrategia 4.** Fortalecimiento de las capacidades para gestión de información estadística Institucional (énfasis en uso de tecnologías, disposición de recursos y competencias.
+<!--     *	*Acción 5.* Garantizar accesibilidad a la información producida por las operaciones estadísticas. La accesibilidad se entiende como la facilidad con la que los usuarios pueden ubicar y acceder a los resultados de una operación estadística. Este atributo de la calidad estadística también se relaciona con la forma en que éstos se suministran y los medios de difusión utilizados. -->
 
-    *	*Acción 1.* Adopción de tecnologías y plataformas adecuadas para la producción, procesamiento, análisis y difusión de información estadística estratégica.  
+<!--   * **Estrategia 4.** Fortalecimiento de las capacidades para gestión de información estadística Institucional (énfasis en uso de tecnologías, disposición de recursos y competencias. -->
 
-    *	*Acción 2.* Establecer las competencias mínimas requeridas para la gestión de información estadística.
+<!--     *	*Acción 1.* Adopción de tecnologías y plataformas adecuadas para la producción, procesamiento, análisis y difusión de información estadística estratégica.   -->
 
-    *	*Acción 3.* Definir un plan de formación y requerimientos mínimos para  consolidación, procesamiento, análisis y difusión de información estadística institucional.
+<!--     *	*Acción 2.* Establecer las competencias mínimas requeridas para la gestión de información estadística. -->
 
-  * **Estrategia 5.** Promover y adoptar estándares y nomenclaturas en el desarrollo de la actividad estadística institucional.
+<!--     *	*Acción 3.* Definir un plan de formación y requerimientos mínimos para  consolidación, procesamiento, análisis y difusión de información estadística institucional. -->
 
-    *	*Acción 1.* Adoptar y/o implementar los lineamientos, conceptos estandarizados, clasificaciones estandarizadas y metodologías para la producción  y difusión.
+<!--   * **Estrategia 5.** Promover y adoptar estándares y nomenclaturas en el desarrollo de la actividad estadística institucional. -->
 
-    *	*Acción 2.* Publicar en los medios institucionales los estándares y nomenclaturas oficiales adoptados en la generación de estadísticas institucionales.
+<!--     *	*Acción 1.* Adoptar y/o implementar los lineamientos, conceptos estandarizados, clasificaciones estandarizadas y metodologías para la producción  y difusión. -->
 
-* **Línea estratégica 3:** Promoción de la cultura estadística en la Universidad Nacional.
+<!--     *	*Acción 2.* Publicar en los medios institucionales los estándares y nomenclaturas oficiales adoptados en la generación de estadísticas institucionales. -->
 
-  * **Estrategia 1.**  Institucionalizar (procesos y procedimientos) en los medios adecuados  los procesos de producción de información estadística estratégica.
+<!-- * **Línea estratégica 4:** Promoción de la cultura estadística en la Universidad Nacional. -->
 
-    *	*Acción 1.* Documentar todos los procedimientos estadísticos adelantados por las diferentes áreas o dependencias en los mecanismos institucionales pertinentes. 
+<!--   * **Estrategia 1.**  Institucionalizar (procesos y procedimientos) en los medios adecuados  los procesos de producción de información estadística estratégica. -->
 
-    *	*Acción 2.* Documentar las metodologías empleadas para  la consolidación, producción, procesamiento, análisis y difusión de la información estadística generada en cada área o dependencia.
+<!--     *	*Acción 1.* Documentar todos los procedimientos estadísticos adelantados por las diferentes áreas o dependencias en los mecanismos institucionales pertinentes.  -->
 
-    *	*Acción 3.* Asignar de acuerdo a competencias y funciones de las dependencias, las operaciones estadísticas e indicadores estratégicos.
+<!--     *	*Acción 2.* Documentar las metodologías empleadas para  la consolidación, producción, procesamiento, análisis y difusión de la información estadística generada en cada área o dependencia. -->
 
-  * **Estrategia 2.** Promover el uso y aprovechamiento de datos, estadísticas e indicadores, como activo estratégico institucional - complementar de acuerdo a las acciones propuestas.
+<!--     *	*Acción 3.* Asignar de acuerdo a competencias y funciones de las dependencias, las operaciones estadísticas e indicadores estratégicos. -->
 
-    *	*Acción 1.* Capacitación a responsables de manejo de información estadística en las dependencias  sobre  buenas prácticas estadísticas, estandarización de conceptos y uso de estándares y  nomenclaturas.
+<!--   * **Estrategia 2.** Promover el uso y aprovechamiento de datos, estadísticas e indicadores, como activo estratégico institucional - complementar de acuerdo a las acciones propuestas. -->
 
-    *	*Acción 2.* Fortalecer las capacidades y competencias técnicas en gestión, producción, análisis, procesamiento y difusión de información estratégica de los funcionarios Institucionales  responsables de la producción estadística Institucional.
+<!--     *	*Acción 1.* Capacitación a responsables de manejo de información estadística en las dependencias  sobre  buenas prácticas estadísticas, estandarización de conceptos y uso de estándares y  nomenclaturas. -->
 
-    *	*Acción 3.* Conocimiento y valoración del potencial estadístico de la información consolidada mediante registros administrativos por las distintas áreas o dependencias.
+<!--     *	*Acción 2.* Fortalecer las capacidades y competencias técnicas en gestión, producción, análisis, procesamiento y difusión de información estratégica de los funcionarios Institucionales  responsables de la producción estadística Institucional. -->
 
-  * **Estrategia  3.** Promover la difusión de la información estadística institucional.  
+<!--     *	*Acción 3.* Conocimiento y valoración del potencial estadístico de la información consolidada mediante registros administrativos por las distintas áreas o dependencias. -->
 
-    *	*Acción 1.* Definir los canales adecuados para la difusión de la información estadística institucional.
-    *	*Acción 2.* Definir características básicas para la difusión de información estadística. 
+<!--   * **Estrategia  3.** Promover la difusión de la información estadística institucional.   -->
 
-* **Linea estratégica 4:** Gestionar información estadística para Monitoreo, seguimiento y evaluación.
+<!--     *	*Acción 1.* Definir los canales adecuados para la difusión de la información estadística institucional. -->
+<!--     *	*Acción 2.* Definir características básicas para la difusión de información estadística.  -->
 
-  * **Estrategia 1.** Generar indicadores para el monitoreo y seguimiento a los resultados institucionales alcanzados (medibles).  
+<!-- * **Linea estratégica 4:** Gestionar información estadística para Monitoreo, seguimiento y evaluación. -->
 
-    * *Acción 1.*   Establecer cronograma y responsables de  la producción oportuna y confiable de información estadística estratégica.
+<!--   * **Estrategia 1.** Generar indicadores para el monitoreo y seguimiento a los resultados institucionales alcanzados (medibles).   -->
 
-    * *Acción 2.* Formalizar los procesos y procedimientos de producción de información estadística estratégica.
+<!--     * *Acción 1.*   Establecer cronograma y responsables de  la producción oportuna y confiable de información estadística estratégica. -->
 
-  * **Estrategia 2.** Fomentar el uso de la información estadística para evaluación de políticas y planes institucionales.
+<!--     * *Acción 2.* Formalizar los procesos y procedimientos de producción de información estadística estratégica. -->
 
-    *	*Acción 1.* Incorporar las mediciones de indicadores estratégicos para la definición de políticas, planes y programas institucionales. 
+<!--   * **Estrategia 2.** Fomentar el uso de la información estadística para evaluación de políticas y planes institucionales. -->
 
-    *	*Acción 2.* Identificar registros administrativos con potencial estadístico en la generación de nuevas estadísticas e indicadores. 
+<!--     *	*Acción 1.* Incorporar las mediciones de indicadores estratégicos para la definición de políticas, planes y programas institucionales.  -->
 
-    *	*Acción 3.* Definir un mecanismo adecuado que garantice el acceso oportuno de los tomadores de decisiones a  la información estadística  estratégica asociada a planes y políticas institucionales.
+<!--     *	*Acción 2.* Identificar registros administrativos con potencial estadístico en la generación de nuevas estadísticas e indicadores.  -->
 
-    *	*Acción 4.* Incorporar en los escenarios de rendición de cuentas las mediciones de los indicadores estratégicos asociados a los compromisos misionales.
+<!--     *	*Acción 3.* Definir un mecanismo adecuado que garantice el acceso oportuno de los tomadores de decisiones a  la información estadística  estratégica asociada a planes y políticas institucionales. -->
 
-    *	*Acción 5.* Adoptar y adaptar un modelo de seguimiento y evaluación que incorpore indicadores de resultado para el seguimiento y evaluación de las políticas, planes y proyectos institucionales. 
+<!--     *	*Acción 4.* Incorporar en los escenarios de rendición de cuentas las mediciones de los indicadores estratégicos asociados a los compromisos misionales. -->
 
+<!--     *	*Acción 5.* Adoptar y adaptar un modelo de seguimiento y evaluación que incorpore indicadores de resultado para el seguimiento y evaluación de las políticas, planes y proyectos institucionales.  -->
 
-### Fortalecimiento de registros administrativos - RRAA
 
-En este capítulo se consolida un conjunto de recomendaciones y acciones esenciales en la generación de información estadística en la UNAL, dado que se refieren específicamente a la principal fuente de información usada en las operaciones estadísticas documentadas como son los registros administrativos.Específicamente en este capítulo se consolidan y proponen una serie de etapas y acciones orientadas hacia el fortalecimiento y aprovechamiento  de los registros administrativos con potencial estadístico.
+<!-- ### Fortalecimiento de registros administrativos - RRAA -->
 
-El alcance de esta primera etapa,  se limita  a la verificación de requisitos mínimos de cumplimiento en términos de documentación técnica y metodológica,  que permita identificar y filtrar del total de registros reportados por las dependencias aquellos  que pueden ser objeto de fortalecimiento, es decir, la inclusión de lineamientos técnicos, para alcanzar una producción de calidad y un mejor aprovechamiento de la información estadística disponible.
+<!-- En este capítulo se consolida un conjunto de recomendaciones y acciones esenciales en la generación de información estadística en la UNAL, dado que se refieren específicamente a la principal fuente de información usada en las operaciones estadísticas documentadas como son los registros administrativos.Específicamente en este capítulo se consolidan y proponen una serie de etapas y acciones orientadas hacia el fortalecimiento y aprovechamiento  de los registros administrativos con potencial estadístico. -->
 
-El presente capítulo recopila un conjunto de observaciones generadas de un proceso de revisión del inventario de registros administrativos consolidado y se  destacan los elementos generales de documentación y aspectos susceptibles de mejora por parte de la dependencia encargada, las observaciones derivadas de este proceso permiten un mejor uso y aprovechamiento de la información que consolidan.  
+<!-- El alcance de esta primera etapa,  se limita  a la verificación de requisitos mínimos de cumplimiento en términos de documentación técnica y metodológica,  que permita identificar y filtrar del total de registros reportados por las dependencias aquellos  que pueden ser objeto de fortalecimiento, es decir, la inclusión de lineamientos técnicos, para alcanzar una producción de calidad y un mejor aprovechamiento de la información estadística disponible. -->
 
-Los registros administrativos sobre los cuales se enfoca el proyecto,  deben estar orientados hacia el cumplimiento de la misionalidad institucional, en tal sentido, no se tuvieron en cuenta dentro de la revisión y análisis RRAA con un enfoque distinto. Por ejemplo, registros construidos con el propósito de hacer seguimiento a la gestión interna de cada dependencia o que permiten solamente la verificación de cumplimiento de procesos exclusivos del área; tampoco se incluyeron en el análisis RRAA consolidados por entidades del orden nacional.
+<!-- El presente capítulo recopila un conjunto de observaciones generadas de un proceso de revisión del inventario de registros administrativos consolidado y se  destacan los elementos generales de documentación y aspectos susceptibles de mejora por parte de la dependencia encargada, las observaciones derivadas de este proceso permiten un mejor uso y aprovechamiento de la información que consolidan.   -->
 
-En ese sentido, dentro de los aspectos observados en los registros administrativos caracterizados en el marco del proyecto de formulación del Plan Estadístico se incluyeron los siguientes criterios:
+<!-- Los registros administrativos sobre los cuales se enfoca el proyecto,  deben estar orientados hacia el cumplimiento de la misionalidad institucional, en tal sentido, no se tuvieron en cuenta dentro de la revisión y análisis RRAA con un enfoque distinto. Por ejemplo, registros construidos con el propósito de hacer seguimiento a la gestión interna de cada dependencia o que permiten solamente la verificación de cumplimiento de procesos exclusivos del área; tampoco se incluyeron en el análisis RRAA consolidados por entidades del orden nacional. -->
 
-* **Producción propia**
+<!-- En ese sentido, dentro de los aspectos observados en los registros administrativos caracterizados en el marco del proyecto de formulación del Plan Estadístico se incluyeron los siguientes criterios: -->
 
-En este criterio se verificó si es la Universidad la que produce el RRAA, es decir, verificar si es una iniciativa institucional: consolidar, almacenar y reportar la información del RRAA o si por el contrario es un requerimiento hacer el reporte en bases de datos de entidades nacionales.
+<!-- * **Producción propia** -->
 
-* **Completitud de la ficha del RRAA**
+<!-- En este criterio se verificó si es la Universidad la que produce el RRAA, es decir, verificar si es una iniciativa institucional: consolidar, almacenar y reportar la información del RRAA o si por el contrario es un requerimiento hacer el reporte en bases de datos de entidades nacionales. -->
 
-En este criterio se verificó  la completitud  de todos los campos de la ficha técnica del RRAA.
+<!-- * **Completitud de la ficha del RRAA** -->
 
-* **Validez de contenido** 
+<!-- En este criterio se verificó  la completitud  de todos los campos de la ficha técnica del RRAA. -->
 
-Se verifica si la respuesta consignada en cada campo de la ficha del RRAA guarda correspondencia con la pregunta formulada, si no existe tal correspondencia se define como invalidez del campo.
+<!-- * **Validez de contenido**  -->
 
-* **Uso estadístico** 
+<!-- Se verifica si la respuesta consignada en cada campo de la ficha del RRAA guarda correspondencia con la pregunta formulada, si no existe tal correspondencia se define como invalidez del campo. -->
 
-Uno de los elementos esenciales para verificar el potencial estadístico de los RRAA se refiere al uso potencial de la información recopilada en estos como insumo para la generación de estadísticas institucionales, en ese sentido, el criterio califica la usabilidad de la información consolidada para la construcción de indicadores y/o  estadísticas agregadas.
+<!-- * **Uso estadístico**  -->
 
-## Recomendaciones generales 
+<!-- Uno de los elementos esenciales para verificar el potencial estadístico de los RRAA se refiere al uso potencial de la información recopilada en estos como insumo para la generación de estadísticas institucionales, en ese sentido, el criterio califica la usabilidad de la información consolidada para la construcción de indicadores y/o  estadísticas agregadas. -->
 
-En algunas dependencias se evidencia poca claridad frente al responsable de consolidar la información recopilada por el registro administrativo. Para que exista un manejo confiable de la información estadística producida en cada dependencia, es necesario definir con claridad sobre quién recae la responsabilidad del manejo de la información, para que sea el responsable del reporte, actualización y seguimiento de la misma. 
+<!-- ## Recomendaciones generales  -->
 
-En algunos registros administrativos no se identifica demandante o usuario de la información consolidada, ante lo cual es pertinente identificar plenamente quién o qué dependencia o área requiere de la información consolidada por el registro administrativo para la definición o seguimiento de las políticas, planes, programas y proyectos que se definen para la Universidad. Es allí donde se considera relevante que exista una articulación entre la información producida por cada dependencia acorde al cumplimiento de sus funciones misionales y la demandada por otras para el desarrollo de sus compromisos.
+<!-- En algunas dependencias se evidencia poca claridad frente al responsable de consolidar la información recopilada por el registro administrativo. Para que exista un manejo confiable de la información estadística producida en cada dependencia, es necesario definir con claridad sobre quién recae la responsabilidad del manejo de la información, para que sea el responsable del reporte, actualización y seguimiento de la misma.  -->
 
-A partir del ejercicio de recolección, caracterización y revisión de los registros administrativos generados, se derivan algunas recomendaciones a tener en cuenta para la producción y consolidación de la información  de los mismos.
+<!-- En algunos registros administrativos no se identifica demandante o usuario de la información consolidada, ante lo cual es pertinente identificar plenamente quién o qué dependencia o área requiere de la información consolidada por el registro administrativo para la definición o seguimiento de las políticas, planes, programas y proyectos que se definen para la Universidad. Es allí donde se considera relevante que exista una articulación entre la información producida por cada dependencia acorde al cumplimiento de sus funciones misionales y la demandada por otras para el desarrollo de sus compromisos. -->
 
-* La Universidad, debe disponer los registros
-administrativos en un sistema que permita su organización, clasificación y difusión; en este sentido es recomendable hacer una distinción entre los registros administrativos que se producen en función del objeto misional de la Universidad y los que responden a otras necesidades.
+<!-- A partir del ejercicio de recolección, caracterización y revisión de los registros administrativos generados, se derivan algunas recomendaciones a tener en cuenta para la producción y consolidación de la información  de los mismos. -->
 
-* Para la producción de estadísticas a partir de registros administrativos, es conveniente clasificarlos temáticamente a fin de tener organizadas las fuentes de información y facilitar los procesos estadísticos.
+<!-- * La Universidad, debe disponer los registros -->
+<!-- administrativos en un sistema que permita su organización, clasificación y difusión; en este sentido es recomendable hacer una distinción entre los registros administrativos que se producen en función del objeto misional de la Universidad y los que responden a otras necesidades. -->
 
-*	Revisar continuamente las variables, la documentación asociada, la base de datos y los soportes del proceso de producción del registro administrativo, y mantener actualizado el inventario elaborado en el marco del proyecto.
+<!-- * Para la producción de estadísticas a partir de registros administrativos, es conveniente clasificarlos temáticamente a fin de tener organizadas las fuentes de información y facilitar los procesos estadísticos. -->
 
-*	Para estimular la calidad, estandarización, comparabilidad y comprensión del registro administrativo, es importante documentar los siguientes elementos: denominación del registro administrativo, tema al que pertenece, objetivo, marco normativo, unidad de observación, variables, instrumento de recolección, periodicidad, cobertura geográfica y principales usuarios.
+<!-- *	Revisar continuamente las variables, la documentación asociada, la base de datos y los soportes del proceso de producción del registro administrativo, y mantener actualizado el inventario elaborado en el marco del proyecto. -->
 
-*	La documentación de los elementos que componen el registro administrativo deben guardar entre sí coherencia interna, por ejemplo, el nombre, las variables, el objetivo y la unidad de observación deben estar correspondidos de manera lógica sin lugar a contradicciones.
+<!-- *	Para estimular la calidad, estandarización, comparabilidad y comprensión del registro administrativo, es importante documentar los siguientes elementos: denominación del registro administrativo, tema al que pertenece, objetivo, marco normativo, unidad de observación, variables, instrumento de recolección, periodicidad, cobertura geográfica y principales usuarios. -->
 
-*	Incluir procesos de mejora continua en la producción estadística, entre estos la autoevaluación de los registros administrativos producidos por la Universidad, a partir de requisitos de calidad asociados con la base conceptual y metodológica, las clasificaciones, variables, cobertura alcanzada, calidad de las respuestas, procesamiento de los datos y frecuencia de disponibilidad de los datos.
+<!-- *	La documentación de los elementos que componen el registro administrativo deben guardar entre sí coherencia interna, por ejemplo, el nombre, las variables, el objetivo y la unidad de observación deben estar correspondidos de manera lógica sin lugar a contradicciones. -->
 
-*	Se recomienda que las dependencias, realicen el procesamiento y análisis de la información recopilada mediante registros administrativos, con el fin de determinar si cuentan con los insumos para satisfacer las necesidades en materia estadística y de esta forma permitir el aprovechamiento de los registros administrativos para fines estadísticos.
+<!-- *	Incluir procesos de mejora continua en la producción estadística, entre estos la autoevaluación de los registros administrativos producidos por la Universidad, a partir de requisitos de calidad asociados con la base conceptual y metodológica, las clasificaciones, variables, cobertura alcanzada, calidad de las respuestas, procesamiento de los datos y frecuencia de disponibilidad de los datos. -->
 
-*	En aras de optimizar el uso de los recursos disponibles, se recomienda que la infraestructura dispuesta para consolidación y aprovechamiento de los registros administrativos, incluya en principio los RRAA  asociados a una normatividad clara y específica. 
+<!-- *	Se recomienda que las dependencias, realicen el procesamiento y análisis de la información recopilada mediante registros administrativos, con el fin de determinar si cuentan con los insumos para satisfacer las necesidades en materia estadística y de esta forma permitir el aprovechamiento de los registros administrativos para fines estadísticos. -->
 
-*	Adelantar un proceso de identificación de demandas de información y cruzarlo con la información producida a través de los registros administrativos. Este ejercicio se debe adelantar  tanto dentro de la dependencia que lo produce como para las otras dependencias que podrían eventualmente suplir sus necesidades de información mediante el insumo provisto por los registros administrativos.
+<!-- *	En aras de optimizar el uso de los recursos disponibles, se recomienda que la infraestructura dispuesta para consolidación y aprovechamiento de los registros administrativos, incluya en principio los RRAA  asociados a una normatividad clara y específica.  -->
+
+<!-- *	Adelantar un proceso de identificación de demandas de información y cruzarlo con la información producida a través de los registros administrativos. Este ejercicio se debe adelantar  tanto dentro de la dependencia que lo produce como para las otras dependencias que podrían eventualmente suplir sus necesidades de información mediante el insumo provisto por los registros administrativos. -->
 
 
 

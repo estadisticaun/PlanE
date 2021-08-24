@@ -84,9 +84,9 @@ aseguramiento-de-la-calidad-estadística
 regulación-estadística
 cultura-estadística
 síntesis-de-la-matriz-de-intervención
-fortalecimiento-de-registros-administrativos---rraa
-recomendaciones-generales
-plan-de-acción
+Cap6
 línea-estratégica-i-lineamientos-conceptuales-y-metodológicos
 línea-estratégica-ii-producción-estadística
-línea-estratégica-iii-cultura-estadística
+línea-estratégica-iii-gestión-de-las-capacidades-técnicas-y-tecnológicas.
+línea-estratégica-iv-cultura-estadística
+conclusiones
