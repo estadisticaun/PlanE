@@ -4,16 +4,16 @@
 
 * *Objetivo específico 1:*
 
-  Producir **LINEAMIENTOS CONCEPTUALES** que orienten
-       la actividad estadística en la Universidad.
+  Construir **LINEAMIENTOS CONCEPTUALES** que orienten
+       la actividad estadística en la Universidad y que aporten al fortalecimiento de la producción estadística a nivel nacional e internacional.
   
   * *Acción 1:*
     
-    **Desarrollar elementos conceptuales** que sirvan de referencia para la actividad estadística institucional.
+    **Desarrollar elementos conceptuales** que sirvan de referencia para la actividad estadística a nivel institucional y en el contexto nacional e internacional.
 
     * *Línea de base:*
       
-      Libro: Gestión de la información cuantitativa en las universidades.
+      Libro: [Gestión de la información cuantitativa en las universidades](https://estadisticaun.github.io/L_Conceptual/).
     
     * *Comentarios:*
     
@@ -29,15 +29,15 @@
   
   * *Acción 3:*    
   
-    **Establecer el marco conceptual** y alcance para el monitoreo y seguimiento a planes, programas y proyectos institucionales desde una perspectiva cuantitativa.
+    **Establecer el marco conceptual** y alcance para el monitoreo y seguimiento a planes, programas y proyectos institucionales a través de la construcción de indicadores desde una perspectiva cuantitativa.
   
     * *Comentarios:*
     
-      Es importante desarrollarlo en el Plan I, teniendo en cuenta el proceso de formulación del PLEI.
+      Es importante desarrollarlo en el Plan II, teniendo en cuenta el proceso de formulación y desarrollo del PLEI.
   
   * *Acción 4:*    
 
-    **Definir o adoptar los elementos que sirvan de referencia** para el desarrollo de evaluaciones a políticas, planes y proyectos institucionales desde una perspectiva cuantitativa.
+    **Aportar a la definición de los elementos conceptuales y metodológicos que sirvan de referencia** para el desarrollo de evaluaciones a políticas, planes y proyectos institucionales desde una perspectiva cuantitativa.
   
     * *Comentarios:*
     
@@ -47,19 +47,18 @@
       
         Realizar un estado del arte de las técnicas y metodologías empleadas para la evaluación de las políticas en el ámbito de la educación. 
 
-* *Objetivo específico 2:* 
+* *Objetivo específico 2:*
 
-  Establecer **INSTRUMENTOS METODOLÓGICOS** que apoyen
-       el desarrollo de la actividad estadística de la
-       Universidad.
+  Definir y construir **INSTRUMENTOS METODOLÓGICOS** que apoyen
+       el desarrollo de la actividad estadística.
   
   * *Acción 1:*
   
-    **Construir una guía metodológica** para el desarrollo y gestión de las estadísticas estrátegicas institucionales.
+    **Definir y construir una guía metodológica** para el desarrollo y gestión de las **estadísticas oficiales** institucionales.
   
   * *Acción 2:*
   
-    Diseñar **herramientas metodológicas** que orienten la construcción de **indicadores de proceso** en la Universidad.
+    **Definir y construir una guía metodológica** que orienten la construcción de **indicadores de los procesos** en la Universidad.
   
     * *Acción nivel 2:*
     
@@ -67,152 +66,139 @@
   
   * *Acción 3:*
   
-    Construir una **guía metodológica para el seguimiento y monitoreo** de planes y proyectos institucionales.
+    Definir y construir una **guía metodológica para el seguimiento y monitoreo** a través de indicadores de planes, programas y proyectos institucionales.
   
   * *Acción 4:*
   
-    Desarrollar un **documento metodológico** para la evaluación de planes y proyectos institucionales.
+    Aportar al desarrollo de un **documento metodológico para la evaluación** de políticas, planes, programas  y proyectos institucionales.
   
   
 ### *Línea Estratégica II:* Producción estadística
 
-* *Objetivo específico 1:* 
-  
-  Establecer y adoptar los lineamientos del **PROCESO ESTADÍSTICO** para la generación de estadísticas estratégicas institucionales.
 
-  * *Acción 1:*
+* *Objetivo específico 3:* 
   
-     **Orientar** a las dependencias del Nivel Nacional en las **actividades y procesos requeridos para la generación de estadísticas** de acuerdo a los lineamientos y estándares definidos. 
+  Definir, adoptar o adaptar un marco orientador para la definición del **PROCESO ESTADÍSTICO** requerido para la producción de estadísticas oficiales.
 
-  * *Acción 2:*
+ * *Acción 1:*
     
-    Definir y documentar el proceso estadístico para la producción de estadísticas estratégicas institucionales. 
-    
-    * *Comentarios:*
+    Definir y adptar el **marco orientador** para la implementación del **proceso estadístico** a nivel institucional.
+
+    * *Línea de base:*
       
-      Es necesario definir qué se va a documentar dentro del proceso estadístico. Los protocolos son parte de la documentación.
+      [Norma Técnica de Calidad del Proceso Estadístico - NTCPE 1000](https://www.dane.gov.co/files/sen/normatividad/NTC-Proceso-Estadistico-PE-1000-2020.pdf)
         
-        *Acciones nivel 2:*
-        
-        - Conceptualizar cada una de las etapas que componen el proceso estadístico en la producción de las estadísticas estratégicas institucionales. 
-        - Establecer los flujos de información inmersos en el proceso estadístico para la generación de estadísticas estratégicas institucionales.
-        - Adelantar la documentación técnica del proceso estadístico para la generación de las estadísticas estratégicas de la Universidad Nacional. 
-        - **Documentar las metodologías** empleadas para la captura, procesamiento y difusión de la información estadística **estratégica institucional**. 
-        - Definir procesos estandarizados de captura, procesamiento, almacenamiento y difusión de la información estadística de interés estratégico para la Universidad.
-  
-        
-  * *Acción 3:*
-  
-    **Socializar entre las dependencias responsables** los procesos definidos para la captura, el procesamiento, el almacenamiento y la difusión de la información estadística de interés estratégico para la Universidad.
-    
-  * *Acción 4:*
-  
-    **Implementar** procesos estandarizados de captura, procesamiento, almacenamiento y difusión de la información estadística de interés estratégico para la Universidad.
-
-  * *Acción 5:*
-  
-    **Aplicar criterios de calidad estadística** en la captura, procesamiento, almacenamiento y difusión de la información estadística estratégica institucional. 
-    
-  * *Acción 6:*
-  
-    **Crear, adoptar y/o adaptar estándares y nomenclaturas oficiales** en la producción de estadísticas estratégicas institucionales. 
-    
-    *Acciones nivel 2:*
-    
-    - Definir los **estándares y nomenclaturas** propios de la actividad estadística estratégica institucional.
-    - **Publicar** en los medios institucionales los *estándares y nomenclaturas oficiales* adoptados en la generación de estadísticas institucionales.
-    
-    
-  * *Acción 7:*
-    
-    **Aumentar gradualmente**, a través de un ejercicio de priorización, **la producción de estadísticas** e indicadores estatégicos institucionales. 
-    
-    * **Comentarios:**
-      
-      Esto incuye las estadísticas que aún estan en etapa de diseño como las de infraestructura, ambientales, entre otras.
-    
-    * *Acción nivel 2:*
-      
-      **Evaluar la pertinencia** de la información estadística generada, estableciendo el grado en que la información sirve para hacer frente a los propósitos para los cuales los usuarios buscan esta información. 
-
-* *Objetivo específico 2:*  
-  
-  Fortalecer la **GESTIÓN ESTADÍSTICA** institucional.
-  
-  * *Acción 1:*
-  
-    Establecer el alcance y los niveles de gobernabilidad de la información estadística estratégica institucional.
-    
-    *Acciones nivel 2:*
-    
-    * Definir los niveles de gobernabilidad aplicables a la información estadística estratégica institucional.
-    * Asignar, de acuerdo a competencias y funciones de las dependencias, la responsabilidad de las mismas en la producción de estadísticas estratégicas institucionales en cada una de las etapas del proceso estadístico.
-    * **Establecer cronograma y responsables** de la producción oportuna y confiable de información estadística estratégica.
-    
-    
   * *Acción 2:*
   
-    Analizar y adoptar el marco de referencia sobre el cual la Universidad abordará los **aspectos éticos y jurídicos** que comprenden el manejo de información estadística institucional.
+    **Implementar y documentar el proceso estadístico** que soporta las operciones estadísticas requeridas para la producción de la información estadística oficial
     
-    * *Comentarios:*
-    
-      La accesibilidad se entiende como la facilidad con la que los usuarios pueden ubicar y acceder a los resultados de una operación estadística. Este atributo de la calidad estadística también se relaciona con la forma en que éstos se suministran y los medios de difusión utilizados. 
-    
-      *Acciones nivel 2:*
-    
-      * Reglamentar la política de Habbeas Data en los aspectos que atañen a la información utilizada para la producción de estadísticas estratégicas institucionales.
-      * Adecuar los recursos y el soporte normativo en aras de  garantizar la producción continua de las operaciones estadísticas estratégicas institucionales.
-
-  * *Acción 3:*
+ 
+ * *Objetivo específico 4:* 
   
-    **Desarrollar** el componente cuantitativo de los estudios de interés estratégico institucional priorizados en la agenda de evaluación.
-    
-    * *Comentarios:*
-    
-      En el hacer acotarlo a la estadìstica.  Revisar con el grupo de la oficina. Tener en cuenta que dentro del regimen se encuentra la definición de la agenda de evaluación a las políticas, planes, programas o proyectos de interés estratégico para la Universidad.
-      
-      *Acciones nivel 2:*
-      
-        * Implementar la **agenda de evaluación** diseñada para el periodo de estudio.
-        * Establecer el **alcance, los  recursos requeridos y la metodología** que permitan analizar la factibilidad de la implementación de la agenda de evaluación.
-        
+  Fortalecer los **mecanismos de construcción y disposición** de las **ESTADÍSTICAS E INDICADORES**  oficiales institucionales
+ 
+  * *Acción 1:*
+  
+    **Aumentar gradualmente,** a través de un ejercicio de priorización, la producción de **estadísticas e indicadores oficiales institucionales**. 
 
+
+    *Acciones nivel 2:*
+    
+    - Definir un mecanismo institucional para la priorización en la construcción y publicación de estadísticas oficiales.
+
+* *Acción 2:*
+  
+    Fortalecer los mecanismos de **difusión y comunicación** de las estadísticas oficiales e indicadores institucionales
+
+
+    *Acciones nivel 2:*
+    
+    - Fortalecer, de manera continua,  la página web de [estadísticas oficiales](http://estadisticas.unal.edu.co/home/) de la Universidad
+    - Definir e implementar estrategias innovadoras en materia de difusión de la información estadística institucional
+    
+* *Acción 3:*
+  
+    Fortalecer los niveles de **transparencia y apertura de los datos estadísticos** disponibles a nivel institucional.
+
+
+    *Acciones nivel 2:*
+    
+    - Revisar los componentes jurídicos requeridos para la apertura de datos (leyes de transparencia y de Habeas Data)
+    - Revisar las condiciones requeridas para la publicación de datos institucionales de manera abierta en el [portal de datos abiertos del estado colombiano](https://datos.gov.co/) 
+    
+
+* *Acción 4:*
+  
+    Fortalecer los niveles de **calidad, gobernabilidad y estandarización** de la producción estadística institucional.
+
+
+    *Acciones nivel 2:*
+    
+    - Definir e implementar acciones encaminadas a aumentar los niveles de de calidad estadística en la captura, procesamiento, almacenamiento y difusión de la información estadística estratégica institucional.
+    - Gestionar la certificación de calidad en la producción estadística oficial institucional ante los organismos nacionales en materia estadística.
+
+
+* *Objetivo específico 5:* 
+  
+  Fomentar la realización de **ESTUDIOS E INVESTIGACIONES** a partir de los datos disponibles a nivel institucional.
+ 
+  * *Acción 1:*
+  
+    Definir e iniciar la fase de implementación de **estudios e investigaciones** asociados a problemáticas institucionales a partir de los conjuntos de datos disponibles.         
+        
+        
 ### *Línea Estratégica III:* Gestión de las capacidades técnicas y tecnológicas. 
 
-* *Objetivo específico 1:* 
+
+* *Objetivo específico 6:* 
   
-  Fortalecer las **capacidades** técnicas y tecnológicas para la **GESTIÓN DE LA INFORMACIÓN estadística institucional** (disposición de *hardware* y adquisisicón y dominio de *software*).  
+  Definir, adquirir, construir, adaptar o configurar las **HERRAMIENTAS Y PLATAFORMAS TECNOLÓGICAS** requeridas  a nivel de software y hardware para la gestión estadística.  
   
   * *Acción 1:*
       
-    **Definir, adquirir, adaptar y configurar** las tecnologías y plataformas a nivel de **hardware** para la captura, producción, procesamiento, análisis y difusión de información estadística estratégica.
+    **Definir, adquirir, adaptar y configurar las tecnologías y plataformas** adecuadas a **nivel de hardware** para la captura, producción, procesamiento, análisis y difusión de información estadística estratégica.
 
   * *Acción 2:*
     
-    **Definir, adquirir y dominar los softwares** requeridos a nivel institucional para la captura, producción, procesamiento, análisis y difusión de información estadística estratégica.
+    **Definir, adquirir y dominar los softwares requeridos** a nivel institucional para la captura, producción, procesamiento, análisis y difusión de información estadística estratégica
     
   * *Acción 3:*
   
-  Establecer las **competencias mínimas requeridas** a nivel **técnico y tecnológico** para la gestión de información estadística. 
+  **Construir herramientas tecnológicas a nivel de software** que faciliten la disposición de estadísticas e indicadores institucionales
+
+
+* *Objetivo específico 7:* 
   
-  * *Acción 4:*
+  Fortalecer **LAS COMPETENCIAS TÉCNICAS/ACADÉMICAS** requeridas en el talento humano para la **gestión estadística** a nivel instiutucional..  
   
-    Definir e implementar un **plan de formación que fortalezca en los funcionarios** las competencias mínimas requeridas, especialmente a nivel técnico y tecnológico, en los procesos de consolidación, procesamiento, análisis y difusión de información estadística institucional.
-    
-      * *Comentarios:*
+  * *Acción 1:*
       
-        El plan de formación se puede abordar desde los proyectos de gestión de la información y SIGA.
+    Establecer las **competencias mínimas requeridas a nivel técnico y tecnológico** para la gestión de información estadística.  
+
+  * *Acción 2:*
+      
+    Definir e implementar un **plan de formación que fortalezca en los funcionarios** las competencias mínimas requeridas, especialmente a nivel técnico y tecnológico, en los procesos de consolidación, procesamiento, análisis y difusión de información estadística institucional. 
+    
+
+* *Objetivo específico 8:* 
+  
+  Aportar en la generación y construcción de **DIRECTRÍCES TÉCNICAS** a nivel de **software y hardware** para la gestión estadística institucional  
+  
+  * *Acción 1:*
+      
+    Aportar en la generación de **directrices técnicas en materia de adquisición de hardware y software** requerido para la gestíon estadística insitucional.      
 
 
 ### *Línea Estratégica IV:* Cultura estadística
 
-* *Objetivo específico 1:* 
 
-  **Promover la DIFUSIÓN y CONOCIMIENTO** de la información estadística estratégica institucional. 
+* *Objetivo específico 9:* 
+
+  **Promover la DIFUSIÓN y CONOCIMIENTO** de la información estadística oficial institucional. 
   
     * *Acción 1:* 
     
-      **Socializar entre** los integrantes de la comunidad universitaria los distintos mecanismos que tiene la Universidad para la difusión de la información estadística estratégica institucional.
+      **Socializar**, entre los integrantes de la comunidad universitaria, los distintos mecanismos que tiene la Universidad para la difusión de la información estadística oficial institucional.
       
     * *Acción 2:* 
     
@@ -220,32 +206,32 @@
       
     * *Acción 3:* 
     
-      Desarrollar estrategias que promuevan la **difusión de la información** estadística estratégica institucional a **nivel externo**.
+      Definir e implementar acciones que promuevan la **difusión de la información estadística oficial a nivel nacional e internacional**.
       
       * *Comentarios:*
       
-        Una de las estrategias puede ser difundir estadísticas relevantes de la Universidad a través de Twitter (trabajar este punto con Unimedios).
+        Difundir estadísticas relevantes de la Universidad a través de redes sociales (Trabajar este punto con Unimedios).
 
 
-* *Objetivo específico 2:*
+* *Objetivo específico 10:*
 
   Promover el **USO Y APROVECHAMIENTO DE LOS DATOS, ESTADÍSTICAS E INDICADORES** como activo estratégico institucional.
   
   * *Acción 1:*
   
-    Desarrollar estrategias que promuevan el **uso de la información estadística** estratégica para la **toma de decisiones y la planeación institucional**.
+    Desarrollar estrategias que promuevan el **uso de la información estadística** estratégica para la **toma de decisiones, la planeación institucional, la transparencia y la rendición permanente de cuentas.**.
     
     * *Comentarios:*
     
-      Dentro de estos mecanismos se encuentran la rendición de cuentas, los informes de gestión, el Plan Global de Desarrollo y los planes de acción, la Acreditación Institucional, entre otros.
+      Rendición de cuentas, informes de gestión,  Plan Global de Desarrollo y planes de acción, Acreditación Institucional,entre otros.
       
         * *Acción nivel 2:*
         
-          Fomentar la incorporación de estadísticas e indicadores estratégicos en los distintos mecanismos que tiene la Universidad para mostrar los resultados de su gestión institucional.
+          Fomentar la incorporación de estadísticas oficiales e indicadores en los distintos mecanismos que tiene la Universidad para difundir los resultados de la gestión institucional.
       
   * *Acción 2:*
   
-    **Fomentar el conocimiento y valoración del potencial estadístico** de la información consolidada mediante registros administrativos por las distintas áreas o dependencias.
+    **Fomentar, a nivel interno, el conocimiento y valoración del potencial estadístico** de la información consolidada a nivel institucional mediante registros administrativos.
     
     * *Acción nivel 2:*
     
@@ -253,11 +239,9 @@
       
   * *Acción 3:* 
   
-    **Socializar entre** los integrantes de la comunidad universitaria los distintos mecanismos que tiene la Universidad para la difusión de la información estadística estratégica institucional.
+    Construir y fomentar el uso de **cursos o espacios virtuales**  para fomentar el uso y aprovechamiento del valor contenido en los datos institucionales.
     
-    * *Comentarios:*
-    
-      Dentro de los mecanismos se encuentran la revista de estadísticas e indicadores, las páginas web. 
+
       
       
       

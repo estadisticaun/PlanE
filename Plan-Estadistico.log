@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.17)  22 DEC 2021 15:24
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.17)  23 DEC 2021 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1148,7 +1148,7 @@ Capítulo 6.
 ]
 Capítulo 7.
 [77]
-Underfull \hbox (badness 10000) in paragraph at lines 2207--2209
+Underfull \hbox (badness 10000) in paragraph at lines 2158--2160
 []\TU/lmr/m/n/10 “Aspectos generales.” 2021. []$[][][][][] [] [] [] [][][] [] [][][][] [] [][][] [] [][] [] [][][][][] [] [][][] [] [][][][][][][] [][] [][][][][][][][][][][] [][] [][][][][][][][] [][]
  []
 
@@ -1198,10 +1198,10 @@ Package rerunfilecheck Info: File `Plan-Estadistico.out' has not changed.
 Here is how much of TeX's memory you used:
  18584 strings out of 478242
  356826 string characters out of 5853642
- 829857 words of memory out of 5000000
+ 829812 words of memory out of 5000000
  38817 multiletter control sequences out of 15000+600000
  409921 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,8n,121p,1244b,541s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 86i,8n,121p,1244b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Plan-Estadistico.pdf (78 pages).

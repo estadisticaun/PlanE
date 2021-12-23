@@ -1,7 +1,7 @@
 --- 
 title: "Plan Estadístico Institucional"
 author: "<a href='http://unal.edu.co/' target='blank'> Universidad Nacional de Colombia</a> </br>  <a href= 'http://estadisticas.unal.edu.co/' target='blank'> Oficina Nacional de Estadística</a>"
-date: "`r format(Sys.Date(), 'Última actualización: %d de %B de %Y')`"
+# date: "`r format(Sys.Date(), 'Última actualización: %d de %B de %Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
