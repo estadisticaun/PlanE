@@ -86,16 +86,16 @@
 
     * *Línea de base:*
       
-      [Norma Técnica de Calidad del Proceso Estadístico - NTCPE 1000](https://www.dane.gov.co/files/sen/normatividad/NTC-Proceso-Estadistico-PE-1000-2020.pdf)
+      [Norma Técnica de Calidad del Proceso Estadístico - NTCPE 1000](https://www.dane.gov.co/files/sen/normatividad/NTC-Proceso-Estadistico-PE-1000-2020.pdf).
         
   * *Acción 2:*
   
-    **Implementar y documentar el proceso estadístico** que soporta las operciones estadísticas requeridas para la producción de la información estadística oficial
+    **Implementar y documentar el proceso estadístico** que soporta las operciones estadísticas requeridas para la producción de la información estadística oficial.
     
  
  * *Objetivo específico 4:* 
   
-  Fortalecer los **mecanismos de construcción y disposición** de las **ESTADÍSTICAS E INDICADORES**  oficiales institucionales
+  Fortalecer los **mecanismos de construcción y disposición** de las **ESTADÍSTICAS E INDICADORES**  oficiales institucionales.
  
   * *Acción 1:*
   
@@ -108,13 +108,13 @@
 
 * *Acción 2:*
   
-    Fortalecer los mecanismos de **difusión y comunicación** de las estadísticas oficiales e indicadores institucionales
+    Fortalecer los mecanismos de **difusión y comunicación** de las estadísticas oficiales e indicadores institucionales.
 
 
     *Acciones nivel 2:*
     
-    - Fortalecer, de manera continua,  la página web de [estadísticas oficiales](http://estadisticas.unal.edu.co/home/) de la Universidad
-    - Definir e implementar estrategias innovadoras en materia de difusión de la información estadística institucional
+    - Fortalecer, de manera continua,  la página web de [estadísticas oficiales](http://estadisticas.unal.edu.co/home/) de la Universidad.
+    - Definir e implementar estrategias innovadoras en materia de difusión de la información estadística institucional.
     
 * *Acción 3:*
   
@@ -124,7 +124,7 @@
     *Acciones nivel 2:*
     
     - Revisar los componentes jurídicos requeridos para la apertura de datos (leyes de transparencia y de Habeas Data)
-    - Revisar las condiciones requeridas para la publicación de datos institucionales de manera abierta en el [portal de datos abiertos del estado colombiano](https://datos.gov.co/) 
+    - Revisar las condiciones requeridas para la publicación de datos institucionales de manera abierta en el [portal de datos abiertos del estado colombiano](https://datos.gov.co/). 
     
 
 * *Acción 4:*
@@ -160,16 +160,16 @@
 
   * *Acción 2:*
     
-    **Definir, adquirir y dominar los softwares requeridos** a nivel institucional para la captura, producción, procesamiento, análisis y difusión de información estadística estratégica
+    **Definir, adquirir y dominar los softwares requeridos** a nivel institucional para la captura, producción, procesamiento, análisis y difusión de información estadística estratégica.
     
   * *Acción 3:*
   
-  **Construir herramientas tecnológicas a nivel de software** que faciliten la disposición de estadísticas e indicadores institucionales
+  **Construir herramientas tecnológicas a nivel de software** que faciliten la disposición de estadísticas e indicadores institucionales.
 
 
 * *Objetivo específico 7:* 
   
-  Fortalecer **LAS COMPETENCIAS TÉCNICAS/ACADÉMICAS** requeridas en el talento humano para la **gestión estadística** a nivel instiutucional..  
+  Fortalecer **LAS COMPETENCIAS TÉCNICAS/ACADÉMICAS** requeridas en el talento humano para la **gestión estadística** a nivel instiutucional.
   
   * *Acción 1:*
       
@@ -182,7 +182,7 @@
 
 * *Objetivo específico 8:* 
   
-  Aportar en la generación y construcción de **DIRECTRÍCES TÉCNICAS** a nivel de **software y hardware** para la gestión estadística institucional  
+  Aportar en la generación y construcción de **DIRECTRÍCES TÉCNICAS** a nivel de **software y hardware** para la gestión estadística institucional. 
   
   * *Acción 1:*
       
@@ -194,7 +194,7 @@
 
 * *Objetivo específico 9:* 
 
-  **Promover la DIFUSIÓN y CONOCIMIENTO** de la información estadística oficial institucional. 
+  **Promover la DIFUSIÓN y CONOCIMIENTO** de la información estadística oficial institucional a nivel **institucional, nacional e internacional.** 
   
     * *Acción 1:* 
     
