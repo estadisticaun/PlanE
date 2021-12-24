@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.17)  24 DEC 2021 01:28
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.12.17)  24 DEC 2021 01:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1148,7 +1148,7 @@ Capítulo 6.
 ]
 Capítulo 7.
 [77]
-Underfull \hbox (badness 10000) in paragraph at lines 2160--2162
+Underfull \hbox (badness 10000) in paragraph at lines 2162--2164
 []\TU/lmr/m/n/10 “Aspectos generales.” 2021. []$[][][][][] [] [] [] [][][] [] [][][][] [] [][][] [] [][] [] [][][][][] [] [][][] [] [][][][][][][] [][] [][][][][][][][][][][] [][] [][][][][][][][] [][]
  []
 
