@@ -241,7 +241,23 @@
   
     Construir y fomentar el uso de **cursos o espacios virtuales**  para fomentar el uso y aprovechamiento del valor contenido en los datos institucionales.
     
+    
+```{css, echo = FALSE}
+.button1 {
+  background-color: gray; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
 
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+```
+
+<br>
+
+<button class="button button1" href="https://github.com/estadisticaun/PlanE/raw/master/Plan_Accion.xlsx">Descargar Plan de Acción (*.xlsx)</button>
       
       
       
