@@ -2,7 +2,11 @@
 title: "Plan Estadístico Institucional"
 author: "<a href='http://unal.edu.co/' target='blank'> Universidad Nacional de Colombia</a> </br>  <a href= 'http://estadisticas.unal.edu.co/' target='blank'> Oficina Nacional de Estadística</a>"
 # date: "`r format(Sys.Date(), 'Última actualización: %d de %B de %Y')`"
+url: 'https://estadisticaun.github.io/PlanE/'
 site: bookdown::bookdown_site
+github-repo: "estadisticaun/PlanE"
+cover-image: "Imagenes/Portada Final.jpg"
+edit: https://github.com/estadisticaun/PlanE/edit/master/%s
 output: bookdown::gitbook
 documentclass: book
 bibliography: [book.bib, packages.bib]

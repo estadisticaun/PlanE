@@ -7,6 +7,7 @@ bookdown::gitbook:
         <li></br><center><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Escudo_unal_2016.png"  height=50 width="40"> <a href="./">Plan Estadístico Institucional</a></center></li>
       after: |
         <li><center><a href="http://unal.edu.co/" target="blank"> Universidad Nacional de Colombia </a></center></li>
+    edit: https://github.com/estadisticaun/PlanE/edit/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
